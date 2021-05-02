@@ -8,4 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cardoso-thiago" alt="cardoso-thiago" /></a> </p>
 
 <!--START_SECTION:comicstrip-->
+<p align="center">
+ <a href="https://xkcd.com/">
+ <img src="https://imgs.xkcd.com/comics/after_the_pandemic.png" />
+</a>
+</p>
 <!--END_SECTION:comicstrip-->
