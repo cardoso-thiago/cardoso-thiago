@@ -10,7 +10,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/product_launch.png" />
+ <img src="https://imgs.xkcd.com/comics/first_time_since_early_2020.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
