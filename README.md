@@ -10,7 +10,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/alien_visitors.png" />
+ <img src="https://imgs.xkcd.com/comics/alien_visitors_2.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
