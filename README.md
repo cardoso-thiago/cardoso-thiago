@@ -10,7 +10,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/h_alpha.png" />
+ <img src="https://imgs.xkcd.com/comics/nightmare_code.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
