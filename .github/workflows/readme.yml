@@ -16,7 +16,7 @@ jobs:
             - uses: Platane/snk/svg-only@v2
               with:
                   github_user_name: cardoso-thiago
-                  output: dist/github-snake.svg
+                  outputs: dist/github-snake.svg
             - uses: crazy-max/ghaction-github-pages@v3
               with:
                   target_branch: output
