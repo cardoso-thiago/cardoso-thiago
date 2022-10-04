@@ -13,7 +13,7 @@ jobs:
             - uses: ism0080/comicstrip-readme@v1.2
               with:
                   SHOW_XKCD: true
-            - uses: Platane/snk@v2
+            - uses: Platane/snk/svg-only@v2
               with:
-                github_user_name: ${{ github.repository_owner }}
-                outputs: dist/github-snake.svg
+                  github_user_name: cardoso-thiago
+                  outputs: dist/github-snake.svg
