@@ -13,3 +13,5 @@
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
+
+![](https://github.com/cardoso-thiago/cardoso-thiago/raw/output/github-snake.svg)
