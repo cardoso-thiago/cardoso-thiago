@@ -15,3 +15,5 @@
 <!--END_SECTION:comicstrip-->
 
 ![](https://github.com/cardoso-thiago/cardoso-thiago/raw/output/github-snake.svg)
+
+![](profile-3d-contrib/profile-green-animate.svg)
