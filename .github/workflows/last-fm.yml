@@ -16,7 +16,6 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
           INCLUDE_LINK: true
-#         IMAGE_COUNT: 6 # Optional. Defaults to 10. Feel free to remove this line if you want.
       - name: commit changes
         continue-on-error: true
         run: |
@@ -31,3 +30,11 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}\
           branch: main
+  lastfm-metrics:
+    name: Update Last.fm Charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dxnter/lastfm-readme@v1
+        with:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
