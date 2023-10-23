@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
-> `2 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `2 ▶️` ∙ **[Fever To Tell (Deluxe Remastered)](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell+(Deluxe+Remastered))** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
 > `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Blue Record](https://www.last.fm/music/Baroness/Blue+Record)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[In The Time Of The Great Remembering](https://www.last.fm/music/Ben+Caplan/In+The+Time+Of+The+Great+Remembering)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
-> `1 ▶️` ∙ **[Cheap Thrills](https://www.last.fm/music/+noredirect/Big+Brother+&+The+Holding+Company+e+Janis+Joplin/Cheap+Thrills)** - [Big Brother & The Holding Company e Janis Joplin](https://www.last.fm/music/+noredirect/Big+Brother+&+The+Holding+Company+e+Janis+Joplin)<br/>
-> `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
+> `1 ▶️` ∙ **[An Evening With Silk Sonic](https://www.last.fm/music/Bruno+Mars,+Anderson+.Paak+e+Silk+Sonic/An+Evening+With+Silk+Sonic)** - [Bruno Mars, Anderson .Paak e Silk Sonic](https://www.last.fm/music/Bruno+Mars,+Anderson+.Paak+e+Silk+Sonic)<br/>
+> `1 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
+> `1 ▶️` ∙ **[Live at KEXP! (Live)](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!+(Live))** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Orange Blossom Special](https://www.last.fm/music/Johnny+Cash/Orange+Blossom+Special)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
+> `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
+> `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `1 ▶️` ∙ **[Shadows](https://www.last.fm/music/Shawn+James/Shadows)** - [Shawn James](https://www.last.fm/music/Shawn+James)<br/>
+> `1 ▶️` ∙ **[Drunk](https://www.last.fm/music/Thundercat/Drunk)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
