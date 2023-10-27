@@ -5,15 +5,12 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `1 ▶️` ∙ **[In The Time Of The Great Remembering](https://www.last.fm/music/Ben+Caplan/In+The+Time+Of+The+Great+Remembering)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `1 ▶️` ∙ **[An Evening With Silk Sonic](https://www.last.fm/music/Bruno+Mars,+Anderson+.Paak+e+Silk+Sonic/An+Evening+With+Silk+Sonic)** - [Bruno Mars, Anderson .Paak e Silk Sonic](https://www.last.fm/music/Bruno+Mars,+Anderson+.Paak+e+Silk+Sonic)<br/>
-> `1 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
-> `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
-> `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `1 ▶️` ∙ **[And the War Came](https://www.last.fm/music/Shakey+Graves/And+the+War+Came)** - [Shakey Graves](https://www.last.fm/music/Shakey+Graves)<br/>
-> `1 ▶️` ∙ **[Shadows](https://www.last.fm/music/Shawn+James/Shadows)** - [Shawn James](https://www.last.fm/music/Shawn+James)<br/>
 > `1 ▶️` ∙ **[Drunk](https://www.last.fm/music/Thundercat/Drunk)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
 > `1 ▶️` ∙ **[It Is What It Is](https://www.last.fm/music/Thundercat/It+Is+What+It+Is)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
+> `1 ▶️` ∙ **[The Beyond / Where the Giants Roam](https://www.last.fm/music/Thundercat/The+Beyond+%2F+Where+the+Giants+Roam)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
+> `1 ▶️` ∙ **[No More Lies](https://www.last.fm/music/Thundercat+e+Tame+Impala/No+More+Lies)** - [Thundercat e Tame Impala](https://www.last.fm/music/Thundercat+e+Tame+Impala)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
