@@ -4,15 +4,15 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Gold & Grey](https://www.last.fm/music/Baroness/Gold+&+Grey)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[The Red Album](https://www.last.fm/music/Baroness/The+Red+Album)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Cheap Thrills](https://www.last.fm/music/Ben+Caplan/Cheap+Thrills)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Ben+Caplan/Nerdicity)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
+> `1 ▶️` ∙ **[Cheap Thrills](https://www.last.fm/music/+noredirect/Big+Brother+&+The+Holding+Company+e+Janis+Joplin/Cheap+Thrills)** - [Big Brother & The Holding Company e Janis Joplin](https://www.last.fm/music/+noredirect/Big+Brother+&+The+Holding+Company+e+Janis+Joplin)<br/>
 > `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 > `1 ▶️` ∙ **[Johnny Cash with His Hot and Blue Guitar (2017 Definitive Expanded Remastered Edition)](https://www.last.fm/music/Johnny+Cash/Johnny+Cash+with+His+Hot+and+Blue+Guitar+(2017+Definitive+Expanded+Remastered+Edition))** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
 <!--END_LASTFM_ALBUMS-->
 
