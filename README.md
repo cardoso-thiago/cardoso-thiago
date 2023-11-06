@@ -6,6 +6,7 @@
 
 > `2 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Gold & Grey](https://www.last.fm/music/Baroness/Gold+&+Grey)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[The Red Album](https://www.last.fm/music/Baroness/The+Red+Album)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
@@ -13,7 +14,6 @@
 > `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Ben+Caplan/Nerdicity)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `1 ▶️` ∙ **[Cheap Thrills](https://www.last.fm/music/+noredirect/Big+Brother+&+The+Holding+Company+e+Janis+Joplin/Cheap+Thrills)** - [Big Brother & The Holding Company e Janis Joplin](https://www.last.fm/music/+noredirect/Big+Brother+&+The+Holding+Company+e+Janis+Joplin)<br/>
 > `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **[Johnny Cash with His Hot and Blue Guitar (2017 Definitive Expanded Remastered Edition)](https://www.last.fm/music/Johnny+Cash/Johnny+Cash+with+His+Hot+and+Blue+Guitar+(2017+Definitive+Expanded+Remastered+Edition))** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
