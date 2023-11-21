@@ -4,11 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `1 ▶️` ∙ **[Summer Pack](https://www.last.fm/music/Childish+Gambino/Summer+Pack)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 > `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `1 ▶️` ∙ **[Red Fang](https://www.last.fm/music/Red+Fang/Red+Fang)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
+> `1 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `1 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
