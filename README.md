@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/System+of+a+Down/Hypnotize"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a96a0ff1cd9b384659b7edac19dc15b6.jpg" title="System of a Down - Hypnotize"></a> <a href="https://www.last.fm/music/System+of+a+Down/Toxicity"><img src="https://lastfm.freetls.fastly.net/i/u/64s/faa79372c53139010902e67938ccf78e.jpg" title="System of a Down - Toxicity"></a> <a href="https://www.last.fm/music/Baroness/Purple"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3f80aa945206081e9eee9d6272871f28.jpg" title="Baroness - Purple"></a> <a href="https://www.last.fm/music/System+of+a+Down/Mezmerize"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6af731c307585bb1e496f80f7dbad566.jpg" title="System of a Down - Mezmerize"></a> <a href="https://www.last.fm/music/Underworld/Second+Toughest+In+The+Infants+(Deluxe+%2F+Remastered)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f0fcdefb8b1c32eb698ecd58d988073a.jpg" title="Underworld - Second Toughest In The Infants (Deluxe / Remastered)"></a> </p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
