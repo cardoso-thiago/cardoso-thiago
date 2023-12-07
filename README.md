@@ -7,8 +7,13 @@
 > `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[Hypnotize](https://www.last.fm/music/System+of+a+Down/Hypnotize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Second Toughest In The Infants (Deluxe / Remastered)](https://www.last.fm/music/Underworld/Second+Toughest+In+The+Infants+(Deluxe+%2F+Remastered))** - [Underworld](https://www.last.fm/music/Underworld)<br/>
+> `1 ▶️` ∙ **[Black Pumas (Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
+> `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
+> `1 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
+> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
+> `1 ▶️` ∙ **[Emperor of Sand](https://www.last.fm/music/Mastodon/Emperor+of+Sand)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
+> `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
