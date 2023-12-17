@@ -5,13 +5,13 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `6 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `3 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `3 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Concussion](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Concussion)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Live at KEXP! (Live)](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!+(Live))** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Red Fang](https://www.last.fm/music/Red+Fang/Red+Fang)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `2 ▶️` ∙ **[Brothers](https://www.last.fm/music/The+Black+Keys/Brothers)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 <!--END_LASTFM_ALBUMS-->
