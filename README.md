@@ -10,10 +10,10 @@
 > `2 ▶️` ∙ **[Concussion](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Concussion)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Live at KEXP! (Live)](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!+(Live))** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Red Fang](https://www.last.fm/music/Red+Fang/Red+Fang)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
+> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[From Beale Street to Oblivion](https://www.last.fm/music/Clutch/From+Beale+Street+to+Oblivion)** - [Clutch](https://www.last.fm/music/Clutch)<br/>
 > `1 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Jimmy's Groove](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Jimmy%27s+Groove)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `1 ▶️` ∙ **[Maniac](https://www.last.fm/music/Fugitive/Maniac)** - [Fugitive](https://www.last.fm/music/Fugitive)<br/>
-> `1 ▶️` ∙ **[I Put a Spell on You](https://www.last.fm/music/Nina+Simone/I+Put+a+Spell+on+You)** - [Nina Simone](https://www.last.fm/music/Nina+Simone)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
