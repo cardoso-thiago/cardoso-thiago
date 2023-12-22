@@ -6,14 +6,14 @@
 
 > `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `2 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[In The Time Of The Great Remembering](https://www.last.fm/music/Ben+Caplan/In+The+Time+Of+The+Great+Remembering)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `1 ▶️` ∙ **[From Beale Street to Oblivion](https://www.last.fm/music/Clutch/From+Beale+Street+to+Oblivion)** - [Clutch](https://www.last.fm/music/Clutch)<br/>
 > `1 ▶️` ∙ **[Maniac](https://www.last.fm/music/Fugitive/Maniac)** - [Fugitive](https://www.last.fm/music/Fugitive)<br/>
-> `1 ▶️` ∙ **[In Concert](https://www.last.fm/music/Janis+Joplin/In+Concert)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
-> `1 ▶️` ∙ **[Silver](https://www.last.fm/music/Johnny+Cash/Silver)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
-> `1 ▶️` ∙ **[Cold Dark Place](https://www.last.fm/music/Mastodon/Cold+Dark+Place)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
-> `1 ▶️` ∙ **[Brown Album](https://www.last.fm/music/Primus/Brown+Album)** - [Primus](https://www.last.fm/music/Primus)<br/>
+> `1 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
