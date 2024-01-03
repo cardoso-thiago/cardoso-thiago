@@ -7,13 +7,13 @@
 > `4 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `3 ▶️` ∙ **[Victim of Love](https://www.last.fm/music/Charles+Bradley/Victim+of+Love)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `3 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `3 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `3 ▶️` ∙ **[Keasbey Nights](https://www.last.fm/music/Streetlight+Manifesto/Keasbey+Nights)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `3 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
 > `2 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
-> `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves/Pretty+Girls+Make+Graves)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
