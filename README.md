@@ -11,9 +11,9 @@
 > `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Cocker](https://www.last.fm/music/Joe+Cocker/Cocker)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
 > `2 ▶️` ∙ **[The Shape Of Punk To Come](https://www.last.fm/music/Red+Fang/The+Shape+Of+Punk+To+Come)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
+> `2 ▶️` ∙ **[Turn the Radio Off](https://www.last.fm/music/Reel+Big+Fish/Turn+the+Radio+Off)** - [Reel Big Fish](https://www.last.fm/music/Reel+Big+Fish)<br/>
 > `2 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `2 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `2 ▶️` ∙ **[Brothers (Deluxe Remastered Anniversary Edition)](https://www.last.fm/music/The+Black+Keys/Brothers+(Deluxe+Remastered+Anniversary+Edition))** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
