@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `3 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Mastodon/The+Shape+of+Punk+to+Come)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 > `2 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
 > `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `2 ▶️` ∙ **[The Shape Of Punk To Come](https://www.last.fm/music/Red+Fang/The+Shape+Of+Punk+To+Come)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
+> `2 ▶️` ∙ **[…And the Battle Begun](https://www.last.fm/music/Rx+Bandits/%E2%80%A6And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `2 ▶️` ∙ **[Weezer (Teal Album)](https://www.last.fm/music/Weezer/Weezer+(Teal+Album))** - [Weezer](https://www.last.fm/music/Weezer)<br/>
+> `1 ▶️` ∙ **[Spirit World Field Guide](https://www.last.fm/music/Aesop+Rock/Spirit+World+Field+Guide)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[The Shape Of Punk To Come](https://www.last.fm/music/Baroness/The+Shape+Of+Punk+To+Come)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Black Pumas (Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **[Black Velvet](https://www.last.fm/music/Charles+Bradley/Black+Velvet)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
+> `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
