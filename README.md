@@ -7,13 +7,13 @@
 > `9 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `8 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `8 ▶️` ∙ **[Flow State](https://www.last.fm/music/Tash+Sultana/Flow+State)** - [Tash Sultana](https://www.last.fm/music/Tash+Sultana)<br/>
+> `4 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 > `4 ▶️` ∙ **[Mr Finish Line](https://www.last.fm/music/Vulfpeck/Mr+Finish+Line)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `3 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `4 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `3 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
 > `3 ▶️` ∙ **[Notion](https://www.last.fm/music/Tash+Sultana/Notion)** - [Tash Sultana](https://www.last.fm/music/Tash+Sultana)<br/>
-> `3 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `2 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `2 ▶️` ∙ **[Blue Record](https://www.last.fm/music/Baroness/Blue+Record)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `2 ▶️` ∙ **[In The Time Of The Great Remembering](https://www.last.fm/music/Ben+Caplan/In+The+Time+Of+The+Great+Remembering)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
-> `2 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
