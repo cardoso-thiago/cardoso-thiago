@@ -6,12 +6,7 @@
 
 > `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
-> `1 ▶️` ∙ **[Heart & Soul](https://www.last.fm/music/Joe+Cocker/Heart+&+Soul)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
-> `1 ▶️` ∙ **[Unchain My Heart](https://www.last.fm/music/Joe+Cocker/Unchain+My+Heart)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
 > `1 ▶️` ∙ **[Mandala](https://www.last.fm/music/Rx+Bandits/Mandala)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `1 ▶️` ∙ **[The Sunset Tree](https://www.last.fm/music/The+Mountain+Goats/The+Sunset+Tree)** - [The Mountain Goats](https://www.last.fm/music/The+Mountain+Goats)<br/>
-> `1 ▶️` ∙ **[Mr Finish Line](https://www.last.fm/music/Vulfpeck/Mr+Finish+Line)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `1 ▶️` ∙ **[Alopecia](https://www.last.fm/music/Why%3F/Alopecia)** - [Why?](https://www.last.fm/music/Why%3F)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
