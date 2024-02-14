@@ -17,7 +17,7 @@ No listening data found for the selected time period.
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/banana_prices.png" />
+ <img src="https://imgs.xkcd.com/comics/sphere_tastiness.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
