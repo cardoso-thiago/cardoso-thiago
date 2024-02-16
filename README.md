@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Greyhounds/Change+of+Pace"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1c41e22403634e65ed8d84e57135c2b2.jpg" title="Greyhounds - Change of Pace"></a> <a href="https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0efecef795f4b95bb8bb134da2ff998.jpg" title="Days N' Daze - Rogue Taxidermy"></a> <a href="https://www.last.fm/music/Rx+Bandits/Mandala"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d29105015cfa565c51c6181432638e71.jpg" title="Rx Bandits - Mandala"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Fiona+Apple/Tidal"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a869ea64cde724b56a326eeeb53a70c.png" title="Fiona Apple - Tidal"></a> <a href="https://www.last.fm/music/Greyhounds/Accumulator"><img src="https://lastfm.freetls.fastly.net/i/u/64s/65b7939310bb4273c2c9e98c57c28f14.jpg" title="Greyhounds - Accumulator"></a> </p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
