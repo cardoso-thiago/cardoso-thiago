@@ -6,14 +6,14 @@
 
 > `2 ▶️` ∙ **[Nikki Nack](https://www.last.fm/music/Tune-Yards/Nikki+Nack)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
 > `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Tidal](https://www.last.fm/music/Ben+Caplan/Tidal)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
-> `1 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
-> `1 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `1 ▶️` ∙ **[Heaven on Earth](https://www.last.fm/music/Greyhounds/Heaven+on+Earth)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[Once More 'Round the Sun](https://www.last.fm/music/Mastodon/Once+More+%27Round+the+Sun)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 > `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `1 ▶️` ∙ **[The Game (Deluxe Edition 2011 Remaster)](https://www.last.fm/music/Queen/The+Game+(Deluxe+Edition+2011+Remaster))** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `1 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `1 ▶️` ∙ **[Dig Me Out](https://www.last.fm/music/Sleater-Kinney/Dig+Me+Out)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
+> `1 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
+> `1 ▶️` ∙ **[99 Songs Of Revolution Vol. 1](https://www.last.fm/music/Streetlight+Manifesto/99+Songs+Of+Revolution+Vol.+1)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
