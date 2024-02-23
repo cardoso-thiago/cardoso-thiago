@@ -4,16 +4,15 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Nikki Nack](https://www.last.fm/music/Tune-Yards/Nikki+Nack)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
-> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Heaven on Earth](https://www.last.fm/music/Greyhounds/Heaven+on+Earth)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `1 ▶️` ∙ **[Once More 'Round the Sun](https://www.last.fm/music/Mastodon/Once+More+%27Round+the+Sun)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
-> `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `1 ▶️` ∙ **[The Game (Deluxe Edition 2011 Remaster)](https://www.last.fm/music/Queen/The+Game+(Deluxe+Edition+2011+Remaster))** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `1 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `1 ▶️` ∙ **[Dig Me Out](https://www.last.fm/music/Sleater-Kinney/Dig+Me+Out)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
-> `1 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
 > `1 ▶️` ∙ **[99 Songs Of Revolution Vol. 1](https://www.last.fm/music/Streetlight+Manifesto/99+Songs+Of+Revolution+Vol.+1)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `1 ▶️` ∙ **[The Fury of the Aquabats!](https://www.last.fm/music/The+Aquabats/The+Fury+of+the+Aquabats!)** - [The Aquabats](https://www.last.fm/music/The+Aquabats)<br/>
+> `1 ▶️` ∙ **[Run Home Slow](https://www.last.fm/music/The+Teskey+Brothers/Run+Home+Slow)** - [The Teskey Brothers](https://www.last.fm/music/The+Teskey+Brothers)<br/>
+> `1 ▶️` ∙ **[Nikki Nack](https://www.last.fm/music/Tune-Yards/Nikki+Nack)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
+> `1 ▶️` ∙ **[Weezer (Teal Album)](https://www.last.fm/music/Weezer/Weezer+(Teal+Album))** - [Weezer](https://www.last.fm/music/Weezer)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
