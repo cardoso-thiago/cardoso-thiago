@@ -4,8 +4,12 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `3 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `2 ▶️` ∙ **[…And the Battle Begun](https://www.last.fm/music/Rx+Bandits/%E2%80%A6And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `1 ▶️` ∙ **[CRUSTFALL](https://www.last.fm/music/Days+N+Daze/CRUSTFALL)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
 > `1 ▶️` ∙ **[Dee Gees: Hail Satin / Foo Fighters: Live](https://www.last.fm/music/Dee+Gees/Dee+Gees:+Hail+Satin+%2F+Foo+Fighters:+Live)** - [Dee Gees](https://www.last.fm/music/Dee+Gees)<br/>
+> `1 ▶️` ∙ **[Coming Home](https://www.last.fm/music/Leon+Bridges/Coming+Home)** - [Leon Bridges](https://www.last.fm/music/Leon+Bridges)<br/>
+> `1 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `1 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
