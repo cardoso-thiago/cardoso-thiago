@@ -10,9 +10,9 @@
 > `6 ▶️` ∙ **[Mr Finish Line](https://www.last.fm/music/Vulfpeck/Mr+Finish+Line)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `5 ▶️` ∙ **[Sunday Afternoon](https://www.last.fm/music/True+Loves/Sunday+Afternoon)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `4 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
-> `4 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
-> `4 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `3 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
 > `3 ▶️` ∙ **[Famous Last Words (2022 Remaster)](https://www.last.fm/music/True+Loves/Famous+Last+Words+(2022+Remaster))** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
+> `3 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `3 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 <!--END_LASTFM_ALBUMS-->
 
