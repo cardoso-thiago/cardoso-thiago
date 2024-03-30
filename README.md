@@ -9,11 +9,11 @@
 > `6 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 > `5 ▶️` ∙ **[Sunday Afternoon](https://www.last.fm/music/True+Loves/Sunday+Afternoon)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `4 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
-> `4 ▶️` ∙ **[Mr Finish Line](https://www.last.fm/music/Vulfpeck/Mr+Finish+Line)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `3 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `3 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
 > `3 ▶️` ∙ **[Famous Last Words (2022 Remaster)](https://www.last.fm/music/True+Loves/Famous+Last+Words+(2022+Remaster))** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `3 ▶️` ∙ **[Fever To Tell (Deluxe Remastered)](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell+(Deluxe+Remastered))** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
+> `2 ▶️` ∙ **[Leviathan](https://www.last.fm/music/Mastodon/Leviathan)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
