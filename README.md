@@ -4,16 +4,11 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Fever To Tell (Deluxe Remastered)](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell+(Deluxe+Remastered))** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `1 ▶️` ∙ **[Good News For People Who Love Bad News](https://www.last.fm/music/Modest+Mouse/Good+News+For+People+Who+Love+Bad+News)** - [Modest Mouse](https://www.last.fm/music/Modest+Mouse)<br/>
-> `1 ▶️` ∙ **[Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age/Queens+of+the+Stone+Age)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `1 ▶️` ∙ **[Rated R - Deluxe Edition](https://www.last.fm/music/Queens+of+the+Stone+Age/Rated+R+-+Deluxe+Edition)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `1 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[Notion](https://www.last.fm/music/Tash+Sultana/Notion)** - [Tash Sultana](https://www.last.fm/music/Tash+Sultana)<br/>
 > `1 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
-> `1 ▶️` ∙ **[El Camino](https://www.last.fm/music/The+Black+Keys/El+Camino)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
+> `1 ▶️` ∙ **[Turn Blue](https://www.last.fm/music/The+Black+Keys/Turn+Blue)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
+> `1 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
