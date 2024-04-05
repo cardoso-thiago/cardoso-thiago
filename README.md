@@ -4,10 +4,13 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Red Fang](https://www.last.fm/music/Red+Fang/Red+Fang)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `1 ▶️` ∙ **[Notion](https://www.last.fm/music/Tash+Sultana/Notion)** - [Tash Sultana](https://www.last.fm/music/Tash+Sultana)<br/>
 > `1 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
 > `1 ▶️` ∙ **[Turn Blue](https://www.last.fm/music/The+Black+Keys/Turn+Blue)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
+> `1 ▶️` ∙ **[Goths](https://www.last.fm/music/The+Mountain+Goats/Goths)** - [The Mountain Goats](https://www.last.fm/music/The+Mountain+Goats)<br/>
 > `1 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
 <!--END_LASTFM_ALBUMS-->
 
