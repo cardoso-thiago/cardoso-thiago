@@ -7,13 +7,13 @@
 > `2 ▶️` ∙ **[ON THE SPOT](https://www.last.fm/music/Hot+8+Brass+Band/ON+THE+SPOT)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `1 ▶️` ∙ **[In / Casino / Out](https://www.last.fm/music/At+the+Drive-In/In+%2F+Casino+%2F+Out)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[I'm Wide Awake, It's Morning](https://www.last.fm/music/Bright+Eyes/I%27m+Wide+Awake,+It%27s+Morning)** - [Bright Eyes](https://www.last.fm/music/Bright+Eyes)<br/>
-> `1 ▶️` ∙ **[Live In Europe 1969](https://www.last.fm/music/Janis+Joplin/Live+In+Europe+1969)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
 > `1 ▶️` ∙ **[Surrealistic Pillow](https://www.last.fm/music/Jefferson+Airplane/Surrealistic+Pillow)** - [Jefferson Airplane](https://www.last.fm/music/Jefferson+Airplane)<br/>
 > `1 ▶️` ∙ **[Remember That I Love You](https://www.last.fm/music/Kimya+Dawson/Remember+That+I+Love+You)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
 > `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 > `1 ▶️` ∙ **[KNOWER FOREVER](https://www.last.fm/music/KNOWER/KNOWER+FOREVER)** - [KNOWER](https://www.last.fm/music/KNOWER)<br/>
 > `1 ▶️` ∙ **[Journal for Plague Lovers](https://www.last.fm/music/Manic+Street+Preachers/Journal+for+Plague+Lovers)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
 > `1 ▶️` ∙ **[This Is My Truth Tell Me Yours](https://www.last.fm/music/Manic+Street+Preachers/This+Is+My+Truth+Tell+Me+Yours)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
+> `1 ▶️` ∙ **[Distancing](https://www.last.fm/music/Misser/Distancing)** - [Misser](https://www.last.fm/music/Misser)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
