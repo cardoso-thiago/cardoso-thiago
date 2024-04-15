@@ -4,16 +4,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[ON THE SPOT](https://www.last.fm/music/Hot+8+Brass+Band/ON+THE+SPOT)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
-> `1 ▶️` ∙ **[In / Casino / Out](https://www.last.fm/music/At+the+Drive-In/In+%2F+Casino+%2F+Out)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[I'm Wide Awake, It's Morning](https://www.last.fm/music/Bright+Eyes/I%27m+Wide+Awake,+It%27s+Morning)** - [Bright Eyes](https://www.last.fm/music/Bright+Eyes)<br/>
-> `1 ▶️` ∙ **[Remember That I Love You](https://www.last.fm/music/Kimya+Dawson/Remember+That+I+Love+You)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
-> `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
-> `1 ▶️` ∙ **[KNOWER FOREVER](https://www.last.fm/music/KNOWER/KNOWER+FOREVER)** - [KNOWER](https://www.last.fm/music/KNOWER)<br/>
-> `1 ▶️` ∙ **[Journal for Plague Lovers](https://www.last.fm/music/Manic+Street+Preachers/Journal+for+Plague+Lovers)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
-> `1 ▶️` ∙ **[This Is My Truth Tell Me Yours](https://www.last.fm/music/Manic+Street+Preachers/This+Is+My+Truth+Tell+Me+Yours)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
-> `1 ▶️` ∙ **[Distancing](https://www.last.fm/music/Misser/Distancing)** - [Misser](https://www.last.fm/music/Misser)<br/>
-> `1 ▶️` ∙ **[Worlds Best Dad 2006](https://www.last.fm/music/Primal+Scream/Worlds+Best+Dad+2006)** - [Primal Scream](https://www.last.fm/music/Primal+Scream)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
