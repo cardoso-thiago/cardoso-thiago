@@ -4,13 +4,14 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[Talon of the Hawk](https://www.last.fm/music/The+Front+Bottoms/Talon+of+the+Hawk)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Heads Up](https://www.last.fm/music/Death+from+Above+1979/Heads+Up)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 > `1 ▶️` ∙ **[Rock with the Hot 8](https://www.last.fm/music/Hot+8+Brass+Band/Rock+with+the+Hot+8)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `1 ▶️` ∙ **[Unchain My Heart](https://www.last.fm/music/Joe+Cocker/Unchain+My+Heart)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
+> `1 ▶️` ∙ **[COWBOY BEBOP Vitaminless](https://www.last.fm/music/Mai+Yamane/COWBOY+BEBOP+Vitaminless)** - [Mai Yamane](https://www.last.fm/music/Mai+Yamane)<br/>
 > `1 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `1 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
-> `1 ▶️` ∙ **[Talon of the Hawk](https://www.last.fm/music/The+Front+Bottoms/Talon+of+the+Hawk)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
 > `1 ▶️` ∙ **[Tim Maia 1973](https://www.last.fm/music/Tim+Maia/Tim+Maia+1973)** - [Tim Maia](https://www.last.fm/music/Tim+Maia)<br/>
 > `1 ▶️` ∙ **[w h o k i l l](https://www.last.fm/music/Tune-Yards/w+h+o+k+i+l+l)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
 <!--END_LASTFM_ALBUMS-->
