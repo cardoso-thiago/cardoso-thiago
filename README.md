@@ -10,10 +10,10 @@
 > `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **[Heads Up](https://www.last.fm/music/Death+from+Above+1979/Heads+Up)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
+> `1 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `1 ▶️` ∙ **[Rock with the Hot 8](https://www.last.fm/music/Hot+8+Brass+Band/Rock+with+the+Hot+8)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
-> `1 ▶️` ∙ **[Unchain My Heart](https://www.last.fm/music/Joe+Cocker/Unchain+My+Heart)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
-> `1 ▶️` ∙ **[COWBOY BEBOP Vitaminless](https://www.last.fm/music/Mai+Yamane/COWBOY+BEBOP+Vitaminless)** - [Mai Yamane](https://www.last.fm/music/Mai+Yamane)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
