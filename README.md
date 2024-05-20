@@ -4,8 +4,13 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[The Colour and the Shape](https://www.last.fm/music/Foo+Fighters/The+Colour+and+the+Shape)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
 > `1 ▶️` ∙ **[Estandarte](https://www.last.fm/music/Castro+Brothers/Estandarte)** - [Castro Brothers](https://www.last.fm/music/Castro+Brothers)<br/>
+> `1 ▶️` ∙ **[Permanent Revolution](https://www.last.fm/music/Catch+22/Permanent+Revolution)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
+> `1 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
 > `1 ▶️` ∙ **[Estandarte](https://www.last.fm/music/Silk+Sonic,+Anderson+.Paak+e+Bruno+Mars/Estandarte)** - [Silk Sonic, Anderson .Paak e Bruno Mars](https://www.last.fm/music/Silk+Sonic,+Anderson+.Paak+e+Bruno+Mars)<br/>
+> `1 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `1 ▶️` ∙ **[No More Lies](https://www.last.fm/music/Thundercat+e+Tame+Impala/No+More+Lies)** - [Thundercat e Tame Impala](https://www.last.fm/music/Thundercat+e+Tame+Impala)<br/>
 > `1 ▶️` ∙ **[Estandarte](https://www.last.fm/music/Vulf/Estandarte)** - [Vulf](https://www.last.fm/music/Vulf)<br/>
 <!--END_LASTFM_ALBUMS-->
 
