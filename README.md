@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Foo+Fighters/The+Colour+and+the+Shape"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c2ecd547171fc923b5b32718a8e8780a.jpg" title="Foo Fighters - The Colour and the Shape"></a> <a href="https://www.last.fm/music/Catch+22/Permanent+Revolution"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0f82491d2a9d48c38eed9125f2820a20.jpg" title="Catch 22 - Permanent Revolution"></a> <a href="https://www.last.fm/music/Fiona+Apple/Tidal"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a869ea64cde724b56a326eeeb53a70c.png" title="Fiona Apple - Tidal"></a> <a href="https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb"><img src="https://lastfm.freetls.fastly.net/i/u/64s/22e31f26fae54946415ef4bae2935075.jpg" title="Streetlight Manifesto - Everything Goes Numb"></a> </p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
