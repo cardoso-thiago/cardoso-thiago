@@ -6,6 +6,10 @@
 
 > `1 ▶️` ∙ **[The Rise and Fall of Ziggy Stardust and the Spiders From Mars](https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `1 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
+> `1 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
+> `1 ▶️` ∙ **[Rose](https://www.last.fm/music/The+Front+Bottoms/Rose)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
+> `1 ▶️` ∙ **[Love and the Death of Damnation](https://www.last.fm/music/The+White+Buffalo/Love+and+the+Death+of+Damnation)** - [The White Buffalo](https://www.last.fm/music/The+White+Buffalo)<br/>
+> `1 ▶️` ∙ **[O Descobridor Dos Sete Mares](https://www.last.fm/music/Tim+Maia/O+Descobridor+Dos+Sete+Mares)** - [Tim Maia](https://www.last.fm/music/Tim+Maia)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
