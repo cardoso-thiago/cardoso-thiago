@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City"><img src="https://lastfm.freetls.fastly.net/i/u/64s/43122519a3264707c76b5c99a0a052ec.png" title="St. Paul & The Broken Bones - Half the City"></a> <a href="https://www.last.fm/music/The+Front+Bottoms/Rose"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d5525907067fe531d460f59f0e1b4e90.jpg" title="The Front Bottoms - Rose"></a> <a href="https://www.last.fm/music/The+White+Buffalo/Love+and+the+Death+of+Damnation"><img src="https://lastfm.freetls.fastly.net/i/u/64s/41632c3db74893681f5fce4cff360581.jpg" title="The White Buffalo - Love and the Death of Damnation"></a> <a href="https://www.last.fm/music/Tim+Maia/O+Descobridor+Dos+Sete+Mares"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3a7cf4613082d4b58c938adc5d6f4033.png" title="Tim Maia - O Descobridor Dos Sete Mares"></a> </p>
+<p align="center"></p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
