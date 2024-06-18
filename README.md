@@ -4,7 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-No listening data found for the selected time period.
+> `2 ▶️` ∙ **[Keasbey Nights](https://www.last.fm/music/Streetlight+Manifesto/Keasbey+Nights)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `1 ▶️` ∙ **[Cheap Thrills](https://www.last.fm/music/Big+Brother+&+The+Holding+Company/Cheap+Thrills)** - [Big Brother & The Holding Company](https://www.last.fm/music/Big+Brother+&+The+Holding+Company)<br/>
+> `1 ▶️` ∙ **[Willy And The Poor Boys (Expanded Edition)](https://www.last.fm/music/Creedence+Clearwater+Revival/Willy+And+The+Poor+Boys+(Expanded+Edition))** - [Creedence Clearwater Revival](https://www.last.fm/music/Creedence+Clearwater+Revival)<br/>
+> `1 ▶️` ∙ **[Heads Up](https://www.last.fm/music/Death+from+Above+1979/Heads+Up)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
+> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Sugarshack Sessions, Vol. 2](https://www.last.fm/music/Fortunate+Youth/Sugarshack+Sessions,+Vol.+2)** - [Fortunate Youth](https://www.last.fm/music/Fortunate+Youth)<br/>
+> `1 ▶️` ∙ **[Orange Blossom Special](https://www.last.fm/music/Johnny+Cash/Orange+Blossom+Special)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
+> `1 ▶️` ∙ **[Because of the Times](https://www.last.fm/music/Kings+of+Leon/Because+of+the+Times)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
