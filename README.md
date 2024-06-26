@@ -4,16 +4,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `6 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `3 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
-> `3 ▶️` ∙ **[The Hot Rock](https://www.last.fm/music/Sleater-Kinney/The+Hot+Rock)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
-> `3 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
-> `3 ▶️` ∙ **[Lateralus](https://www.last.fm/music/Tool/Lateralus)** - [Tool](https://www.last.fm/music/Tool)<br/>
-> `3 ▶️` ∙ **[Fever To Tell (Deluxe Remastered)](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell+(Deluxe+Remastered))** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
-> `2 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `2 ▶️` ∙ **[Cheap Thrills](https://www.last.fm/music/Big+Brother+&+The+Holding+Company/Cheap+Thrills)** - [Big Brother & The Holding Company](https://www.last.fm/music/Big+Brother+&+The+Holding+Company)<br/>
-> `2 ▶️` ∙ **[Surrealistic Pillow](https://www.last.fm/music/Jefferson+Airplane/Surrealistic+Pillow)** - [Jefferson Airplane](https://www.last.fm/music/Jefferson+Airplane)<br/>
-> `2 ▶️` ∙ **[American IV: The Man Comes Around](https://www.last.fm/music/Johnny+Cash/American+IV:+The+Man+Comes+Around)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
