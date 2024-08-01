@@ -4,15 +4,11 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Catch 22 Live (At The Downtown, Farmingdale, NY / August 30, 2004)](https://www.last.fm/music/Catch+22/Catch+22+Live+(At+The+Downtown,+Farmingdale,+NY+%2F+August+30,+2004))** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
 > `1 ▶️` ∙ **[My Darling Dopamine](https://www.last.fm/music/Days+N+Daze/My+Darling+Dopamine)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
-> `1 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `1 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[The Sunset Tree](https://www.last.fm/music/The+Mountain+Goats/The+Sunset+Tree)** - [The Mountain Goats](https://www.last.fm/music/The+Mountain+Goats)<br/>
 > `1 ▶️` ∙ **[Tim Maia 1970](https://www.last.fm/music/Tim+Maia/Tim+Maia+1970)** - [Tim Maia](https://www.last.fm/music/Tim+Maia)<br/>
+> `1 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
