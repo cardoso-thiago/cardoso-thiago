@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `3 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `2 ▶️` ∙ **[The Sunset Tree](https://www.last.fm/music/The+Mountain+Goats/The+Sunset+Tree)** - [The Mountain Goats](https://www.last.fm/music/The+Mountain+Goats)<br/>
+> `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Catch 22 Live (At The Downtown, Farmingdale, NY / August 30, 2004)](https://www.last.fm/music/Catch+22/Catch+22+Live+(At+The+Downtown,+Farmingdale,+NY+%2F+August+30,+2004))** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
+> `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `1 ▶️` ∙ **[My Darling Dopamine](https://www.last.fm/music/Days+N+Daze/My+Darling+Dopamine)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
 > `1 ▶️` ∙ **[I Got Dem Ol' Kozmic Blues Again Mama!](https://www.last.fm/music/Janis+Joplin/I+Got+Dem+Ol%27+Kozmic+Blues+Again+Mama!)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
 > `1 ▶️` ∙ **[PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/PetroDragonic+Apocalypse;+or,+Dawn+of+Eternal+Night:+An+Annihilation+of+Planet+Earth+and+the+Beginning+of+Merciless+Damnation)** - [King Gizzard & The Lizard Wizard](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard)<br/>
-> `1 ▶️` ∙ **[Youth and Young Manhood](https://www.last.fm/music/Kings+of+Leon/Youth+and+Young+Manhood)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
-> `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[The Sunset Tree](https://www.last.fm/music/The+Mountain+Goats/The+Sunset+Tree)** - [The Mountain Goats](https://www.last.fm/music/The+Mountain+Goats)<br/>
-> `1 ▶️` ∙ **[Half Mile Harvest](https://www.last.fm/music/The+Teskey+Brothers/Half+Mile+Harvest)** - [The Teskey Brothers](https://www.last.fm/music/The+Teskey+Brothers)<br/>
-> `1 ▶️` ∙ **[Tim Maia 1970](https://www.last.fm/music/Tim+Maia/Tim+Maia+1970)** - [Tim Maia](https://www.last.fm/music/Tim+Maia)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
