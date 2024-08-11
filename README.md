@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
+> `2 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `2 ▶️` ∙ **[Can't Nobody Get Down EP](https://www.last.fm/music/Hot+8+Brass+Band/Can%27t+Nobody+Get+Down+EP)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `2 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 > `2 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
-> `2 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `2 ▶️` ∙ **[To Risk So Much for One Damn Meal](https://www.last.fm/music/The+Taxpayers/To+Risk+So+Much+for+One+Damn+Meal)** - [The Taxpayers](https://www.last.fm/music/The+Taxpayers)<br/>
+> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Birds With Broken Wings](https://www.last.fm/music/Ben+Caplan/Birds+With+Broken+Wings)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `1 ▶️` ∙ **[Can't Nobody Get Down EP](https://www.last.fm/music/Ben+Caplan/Can%27t+Nobody+Get+Down+EP)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
-> `1 ▶️` ∙ **[Changes](https://www.last.fm/music/Charles+Bradley/Changes)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
-> `1 ▶️` ∙ **[My Darling Dopamine](https://www.last.fm/music/Days+N+Daze/My+Darling+Dopamine)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
