@@ -7,13 +7,13 @@
 > `6 ▶️` ∙ **[Lithonia](https://www.last.fm/music/Childish+Gambino/Lithonia)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `2 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
 > `2 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
-> `2 ▶️` ∙ **[The Tyranny of Distance](https://www.last.fm/music/Ted+Leo+e+The+Pharmacists/The+Tyranny+of+Distance)** - [Ted Leo e The Pharmacists](https://www.last.fm/music/Ted+Leo+e+The+Pharmacists)<br/>
 > `2 ▶️` ∙ **[Geography](https://www.last.fm/music/Tom+Misch+e+Poppy+Ajudha/Geography)** - [Tom Misch e Poppy Ajudha](https://www.last.fm/music/Tom+Misch+e+Poppy+Ajudha)<br/>
 > `1 ▶️` ∙ **[can't slow down](https://www.last.fm/music/Almost+Monday/can%27t+slow+down)** - [Almost Monday](https://www.last.fm/music/Almost+Monday)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `1 ▶️` ∙ **[The Rise and Fall of Ziggy Stardust and the Spiders From Mars](https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
+> `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
