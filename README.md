@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `4 ▶️` ∙ **[Lithonia](https://www.last.fm/music/Childish+Gambino/Lithonia)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `3 ▶️` ∙ **[Lithonia](https://www.last.fm/music/Childish+Gambino/Lithonia)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `1 ▶️` ∙ **[Permanent Revolution](https://www.last.fm/music/Catch+22/Permanent+Revolution)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
 > `1 ▶️` ∙ **[Songs We Recorded for Splits](https://www.last.fm/music/Days+N+Daze/Songs+We+Recorded+for+Splits)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
-> `1 ▶️` ∙ **[Light](https://www.last.fm/music/Matisyahu/Light)** - [Matisyahu](https://www.last.fm/music/Matisyahu)<br/>
 > `1 ▶️` ∙ **[Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age/Queens+of+the+Stone+Age)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
 > `1 ▶️` ∙ **[Whales and Leeches (Deluxe Version)](https://www.last.fm/music/Red+Fang/Whales+and+Leeches+(Deluxe+Version))** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
-> `1 ▶️` ∙ **[Turn the Radio Off](https://www.last.fm/music/Reel+Big+Fish/Turn+the+Radio+Off)** - [Reel Big Fish](https://www.last.fm/music/Reel+Big+Fish)<br/>
-> `1 ▶️` ∙ **[99 Songs Of Revolution Vol. 1](https://www.last.fm/music/Streetlight+Manifesto/99+Songs+Of+Revolution+Vol.+1)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[The Brutalist Bricks](https://www.last.fm/music/Ted+Leo+and+the+Pharmacists/The+Brutalist+Bricks)** - [Ted Leo and the Pharmacists](https://www.last.fm/music/Ted+Leo+and+the+Pharmacists)<br/>
 > `1 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
+> `1 ▶️` ∙ **[The Beyond / Where the Giants Roam](https://www.last.fm/music/Thundercat/The+Beyond+%2F+Where+the+Giants+Roam)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
+> `1 ▶️` ∙ **[O Descobridor Dos Sete Mares](https://www.last.fm/music/Tim+Maia/O+Descobridor+Dos+Sete+Mares)** - [Tim Maia](https://www.last.fm/music/Tim+Maia)<br/>
+> `1 ▶️` ∙ **[Did It Again](https://www.last.fm/music/True+Loves/Did+It+Again)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
