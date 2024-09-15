@@ -8,12 +8,12 @@
 > `2 ▶️` ∙ **[Black Pumas (Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Turn the Radio Off](https://www.last.fm/music/Reel+Big+Fish/Turn+the+Radio+Off)** - [Reel Big Fish](https://www.last.fm/music/Reel+Big+Fish)<br/>
+> `2 ▶️` ∙ **[Weezer (Teal Album)](https://www.last.fm/music/Weezer/Weezer+(Teal+Album))** - [Weezer](https://www.last.fm/music/Weezer)<br/>
 > `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `1 ▶️` ∙ **[Songs We Recorded for Splits](https://www.last.fm/music/Days+N+Daze/Songs+We+Recorded+for+Splits)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
