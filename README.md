@@ -10,10 +10,10 @@
 > `2 ▶️` ∙ **[Everything Must Go 10th Anniversary Edition](https://www.last.fm/music/Manic+Street+Preachers/Everything+Must+Go+10th+Anniversary+Edition)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
 > `2 ▶️` ∙ **[Send Away the Tigers](https://www.last.fm/music/Manic+Street+Preachers/Send+Away+the+Tigers)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
 > `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `2 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `2 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `2 ▶️` ∙ **[One Beat](https://www.last.fm/music/Sleater-Kinney/One+Beat)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
 > `2 ▶️` ∙ **[Hypnotize](https://www.last.fm/music/System+of+a+Down/Hypnotize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Coffee 12"](https://www.last.fm/music/Aesop+Rock/Coffee+12%22)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
