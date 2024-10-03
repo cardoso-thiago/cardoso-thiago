@@ -4,7 +4,6 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Everything Must Go 10th Anniversary Edition](https://www.last.fm/music/Manic+Street+Preachers/Everything+Must+Go+10th+Anniversary+Edition)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
 > `2 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Afrociberdelia](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi/Afrociberdelia)** - [Chico Science & Nação Zumbi](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi)<br/>
