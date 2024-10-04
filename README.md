@@ -4,14 +4,8 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
-> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Afrociberdelia](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi/Afrociberdelia)** - [Chico Science & Nação Zumbi](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi)<br/>
-> `1 ▶️` ∙ **[Lithonia](https://www.last.fm/music/Childish+Gambino/Lithonia)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `1 ▶️` ∙ **[Lute - Single](https://www.last.fm/music/Descaso/Lute+-+Single)** - [Descaso](https://www.last.fm/music/Descaso)<br/>
-> `1 ▶️` ∙ **[...Like Clockwork](https://www.last.fm/music/Queens+of+the+Stone+Age/...Like+Clockwork)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `1 ▶️` ∙ **[Hypnotize](https://www.last.fm/music/System+of+a+Down/Hypnotize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[The Fury of the Aquabats!](https://www.last.fm/music/The+Aquabats/The+Fury+of+the+Aquabats!)** - [The Aquabats](https://www.last.fm/music/The+Aquabats)<br/>
 > `1 ▶️` ∙ **[w h o k i l l](https://www.last.fm/music/Tune-Yards/w+h+o+k+i+l+l)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
 <!--END_LASTFM_ALBUMS-->
 
