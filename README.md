@@ -4,8 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[Rose](https://www.last.fm/music/The+Front+Bottoms/Rose)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
+> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Afrociberdelia](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi/Afrociberdelia)** - [Chico Science & Nação Zumbi](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi)<br/>
+> `1 ▶️` ∙ **[One by One](https://www.last.fm/music/Foo+Fighters/One+by+One)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
+> `1 ▶️` ∙ **[The Colour and the Shape](https://www.last.fm/music/Foo+Fighters/The+Colour+and+the+Shape)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
 > `1 ▶️` ∙ **[Sexual Healing](https://www.last.fm/music/Hot+8+Brass+Band/Sexual+Healing)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
+> `1 ▶️` ∙ **[Remember That I Love You](https://www.last.fm/music/Kimya+Dawson/Remember+That+I+Love+You)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
+> `1 ▶️` ∙ **[Thunder Thighs](https://www.last.fm/music/Kimya+Dawson/Thunder+Thighs)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
+> `1 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `1 ▶️` ∙ **[Talon of the Hawk](https://www.last.fm/music/The+Front+Bottoms/Talon+of+the+Hawk)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
