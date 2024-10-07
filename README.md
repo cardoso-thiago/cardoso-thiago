@@ -13,7 +13,7 @@
 > `1 ▶️` ∙ **[Remember That I Love You](https://www.last.fm/music/Kimya+Dawson/Remember+That+I+Love+You)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
 > `1 ▶️` ∙ **[Thunder Thighs](https://www.last.fm/music/Kimya+Dawson/Thunder+Thighs)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
 > `1 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
-> `1 ▶️` ∙ **[Talon of the Hawk](https://www.last.fm/music/The+Front+Bottoms/Talon+of+the+Hawk)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
+> `1 ▶️` ∙ **[Stick the Landing](https://www.last.fm/music/Scary+Pockets/Stick+the+Landing)** - [Scary Pockets](https://www.last.fm/music/Scary+Pockets)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
