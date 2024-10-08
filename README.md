@@ -6,7 +6,6 @@
 
 > `2 ▶️` ∙ **[Rose](https://www.last.fm/music/The+Front+Bottoms/Rose)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
 > `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Afrociberdelia](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi/Afrociberdelia)** - [Chico Science & Nação Zumbi](https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi)<br/>
 > `1 ▶️` ∙ **[One by One](https://www.last.fm/music/Foo+Fighters/One+by+One)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
 > `1 ▶️` ∙ **[The Colour and the Shape](https://www.last.fm/music/Foo+Fighters/The+Colour+and+the+Shape)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
 > `1 ▶️` ∙ **[Sexual Healing](https://www.last.fm/music/Hot+8+Brass+Band/Sexual+Healing)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
@@ -14,6 +13,7 @@
 > `1 ▶️` ∙ **[Thunder Thighs](https://www.last.fm/music/Kimya+Dawson/Thunder+Thighs)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
 > `1 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
 > `1 ▶️` ∙ **[Stick the Landing](https://www.last.fm/music/Scary+Pockets/Stick+the+Landing)** - [Scary Pockets](https://www.last.fm/music/Scary+Pockets)<br/>
+> `1 ▶️` ∙ **[One Beat](https://www.last.fm/music/Sleater-Kinney/One+Beat)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
