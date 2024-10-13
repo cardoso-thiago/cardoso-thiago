@@ -5,15 +5,12 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[Stick the Landing](https://www.last.fm/music/Scary+Pockets/Stick+the+Landing)** - [Scary Pockets](https://www.last.fm/music/Scary+Pockets)<br/>
-> `2 ▶️` ∙ **[Rose](https://www.last.fm/music/The+Front+Bottoms/Rose)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
-> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[O seguinte é esse](https://www.last.fm/music/Barbatuques/O+seguinte+%C3%A9+esse)** - [Barbatuques](https://www.last.fm/music/Barbatuques)<br/>
 > `1 ▶️` ∙ **[Victim of Love](https://www.last.fm/music/Charles+Bradley/Victim+of+Love)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **[One by One](https://www.last.fm/music/Foo+Fighters/One+by+One)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
-> `1 ▶️` ∙ **[The Colour and the Shape](https://www.last.fm/music/Foo+Fighters/The+Colour+and+the+Shape)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
-> `1 ▶️` ∙ **[Remember That I Love You](https://www.last.fm/music/Kimya+Dawson/Remember+That+I+Love+You)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
-> `1 ▶️` ∙ **[Thunder Thighs](https://www.last.fm/music/Kimya+Dawson/Thunder+Thighs)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
-> `1 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `1 ▶️` ∙ **[One Beat](https://www.last.fm/music/Sleater-Kinney/One+Beat)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
+> `1 ▶️` ∙ **[To Risk So Much for One Damn Meal](https://www.last.fm/music/The+Taxpayers/To+Risk+So+Much+for+One+Damn+Meal)** - [The Taxpayers](https://www.last.fm/music/The+Taxpayers)<br/>
+> `1 ▶️` ∙ **[What Kinda Music](https://www.last.fm/music/Tom+Misch+e+Yussef+Dayes/What+Kinda+Music)** - [Tom Misch e Yussef Dayes](https://www.last.fm/music/Tom+Misch+e+Yussef+Dayes)<br/>
+> `1 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
