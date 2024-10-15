@@ -4,7 +4,9 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `1 ▶️` ∙ **[Coffee 12"](https://www.last.fm/music/Aesop+Rock/Coffee+12%22)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[O seguinte é esse](https://www.last.fm/music/Barbatuques/O+seguinte+%C3%A9+esse)** - [Barbatuques](https://www.last.fm/music/Barbatuques)<br/>
 > `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Permanent Revolution](https://www.last.fm/music/Catch+22/Permanent+Revolution)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
@@ -12,8 +14,6 @@
 > `1 ▶️` ∙ **[Thinking in Textures](https://www.last.fm/music/Chet+Faker/Thinking+in+Textures)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
 > `1 ▶️` ∙ **[CRUSTFALL](https://www.last.fm/music/Days+N+Daze/CRUSTFALL)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
 > `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `1 ▶️` ∙ **[I Put a Spell on You](https://www.last.fm/music/Nina+Simone/I+Put+a+Spell+on+You)** - [Nina Simone](https://www.last.fm/music/Nina+Simone)<br/>
-> `1 ▶️` ∙ **[A Night At The Opera (Deluxe Edition 2011 Remaster)](https://www.last.fm/music/Queen/A+Night+At+The+Opera+(Deluxe+Edition+2011+Remaster))** - [Queen](https://www.last.fm/music/Queen)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
