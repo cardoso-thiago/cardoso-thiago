@@ -11,9 +11,9 @@
 > `1 ▶️` ∙ **[Permanent Revolution](https://www.last.fm/music/Catch+22/Permanent+Revolution)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
 > `1 ▶️` ∙ **[Thinking in Textures](https://www.last.fm/music/Chet+Faker/Thinking+in+Textures)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
 > `1 ▶️` ∙ **[CRUSTFALL](https://www.last.fm/music/Days+N+Daze/CRUSTFALL)** - [Days N Daze](https://www.last.fm/music/Days+N+Daze)<br/>
+> `1 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 > `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[I Put a Spell on You](https://www.last.fm/music/Nina+Simone/I+Put+a+Spell+on+You)** - [Nina Simone](https://www.last.fm/music/Nina+Simone)<br/>
-> `1 ▶️` ∙ **[A Night At The Opera (Deluxe Edition 2011 Remaster)](https://www.last.fm/music/Queen/A+Night+At+The+Opera+(Deluxe+Edition+2011+Remaster))** - [Queen](https://www.last.fm/music/Queen)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
