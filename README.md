@@ -10,10 +10,10 @@
 > `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Sete Desejos](https://www.last.fm/music/Alceu+Valen%C3%A7a/Sete+Desejos)** - [Alceu Valença](https://www.last.fm/music/Alceu+Valen%C3%A7a)<br/>
+> `1 ▶️` ∙ **[Vaya](https://www.last.fm/music/At+the+Drive-In/Vaya)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Victim of Love](https://www.last.fm/music/Charles+Bradley/Victim+of+Love)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `1 ▶️` ∙ **[Because the Internet](https://www.last.fm/music/Childish+Gambino/Because+the+Internet)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `1 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
