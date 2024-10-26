@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `2 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[None Shall Pass](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
-> `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Sete Desejos](https://www.last.fm/music/Alceu+Valen%C3%A7a/Sete+Desejos)** - [Alceu Valença](https://www.last.fm/music/Alceu+Valen%C3%A7a)<br/>
 > `1 ▶️` ∙ **[Vaya](https://www.last.fm/music/At+the+Drive-In/Vaya)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Victim of Love](https://www.last.fm/music/Charles+Bradley/Victim+of+Love)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **[Because the Internet](https://www.last.fm/music/Childish+Gambino/Because+the+Internet)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Heaven on Earth](https://www.last.fm/music/Greyhounds/Heaven+on+Earth)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[Give Me the Night](https://www.last.fm/music/Hot+8+Brass+Band/Give+Me+the+Night)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
