@@ -8,12 +8,12 @@
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Sete Desejos](https://www.last.fm/music/Alceu+Valen%C3%A7a/Sete+Desejos)** - [Alceu Valença](https://www.last.fm/music/Alceu+Valen%C3%A7a)<br/>
 > `1 ▶️` ∙ **[Vaya](https://www.last.fm/music/At+the+Drive-In/Vaya)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Victim of Love](https://www.last.fm/music/Charles+Bradley/Victim+of+Love)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `1 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `1 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Heaven on Earth](https://www.last.fm/music/Greyhounds/Heaven+on+Earth)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `1 ▶️` ∙ **[Give Me the Night](https://www.last.fm/music/Hot+8+Brass+Band/Give+Me+the+Night)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `1 ▶️` ∙ **[Pearl (Legacy Edition)](https://www.last.fm/music/Janis+Joplin/Pearl+(Legacy+Edition))** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
+> `1 ▶️` ∙ **[The New Noise Theology EP](https://www.last.fm/music/Refused/The+New+Noise+Theology+EP)** - [Refused](https://www.last.fm/music/Refused)<br/>
+> `1 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
