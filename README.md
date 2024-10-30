@@ -4,16 +4,15 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
-> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Vaya](https://www.last.fm/music/At+the+Drive-In/Vaya)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Pearl (Legacy Edition)](https://www.last.fm/music/Janis+Joplin/Pearl+(Legacy+Edition))** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
 > `1 ▶️` ∙ **[Surrealistic Pillow](https://www.last.fm/music/Jefferson+Airplane/Surrealistic+Pillow)** - [Jefferson Airplane](https://www.last.fm/music/Jefferson+Airplane)<br/>
 > `1 ▶️` ∙ **[With A Little Help From My Friends](https://www.last.fm/music/Joe+Cocker/With+A+Little+Help+From+My+Friends)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
 > `1 ▶️` ∙ **[Cold Dark Place](https://www.last.fm/music/Mastodon/Cold+Dark+Place)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 > `1 ▶️` ∙ **[Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves/Pretty+Girls+Make+Graves)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `1 ▶️` ∙ **[The New Noise Theology EP](https://www.last.fm/music/Refused/The+New+Noise+Theology+EP)** - [Refused](https://www.last.fm/music/Refused)<br/>
+> `1 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `1 ▶️` ∙ **[Famous Last Words](https://www.last.fm/music/True+Loves/Famous+Last+Words)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
