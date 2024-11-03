@@ -4,15 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
-> `1 ▶️` ∙ **[Surrealistic Pillow](https://www.last.fm/music/Jefferson+Airplane/Surrealistic+Pillow)** - [Jefferson Airplane](https://www.last.fm/music/Jefferson+Airplane)<br/>
-> `1 ▶️` ∙ **[With A Little Help From My Friends](https://www.last.fm/music/Joe+Cocker/With+A+Little+Help+From+My+Friends)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
-> `1 ▶️` ∙ **[For Ever](https://www.last.fm/music/Jungle/For+Ever)** - [Jungle](https://www.last.fm/music/Jungle)<br/>
-> `1 ▶️` ∙ **[Volcano](https://www.last.fm/music/Jungle/Volcano)** - [Jungle](https://www.last.fm/music/Jungle)<br/>
-> `1 ▶️` ∙ **[Cold Dark Place](https://www.last.fm/music/Mastodon/Cold+Dark+Place)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
-> `1 ▶️` ∙ **[Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves/Pretty+Girls+Make+Graves)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `1 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `1 ▶️` ∙ **[Famous Last Words](https://www.last.fm/music/True+Loves/Famous+Last+Words)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
+> `4 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
+> `2 ▶️` ∙ **[The Rise and Fall of Ziggy Stardust and the Spiders From Mars](https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
+> `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `2 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `2 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `2 ▶️` ∙ **[Half Mile Harvest](https://www.last.fm/music/The+Teskey+Brothers/Half+Mile+Harvest)** - [The Teskey Brothers](https://www.last.fm/music/The+Teskey+Brothers)<br/>
+> `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
+> `1 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
+> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `1 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
