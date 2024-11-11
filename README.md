@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Spirit World Field Guide](https://www.last.fm/music/Aesop+Rock/Spirit+World+Field+Guide)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `1 ▶️` ∙ **[Catch 22 Live (At The Downtown, Farmingdale, NY / August 30, 2004)](https://www.last.fm/music/Catch+22/Catch+22+Live+(At+The+Downtown,+Farmingdale,+NY+%2F+August+30,+2004))** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
-> `1 ▶️` ∙ **[Changes](https://www.last.fm/music/Charles+Bradley/Changes)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `1 ▶️` ∙ **[Because the Internet](https://www.last.fm/music/Childish+Gambino/Because+the+Internet)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[Heads Up](https://www.last.fm/music/Death+from+Above+1979/Heads+Up)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
+> `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `1 ▶️` ∙ **[Blow In The Wind](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Blow+In+The+Wind)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `1 ▶️` ∙ **[C'mon Let's Pretend](https://www.last.fm/music/Sahara+Hotnights/C%27mon+Let%27s+Pretend)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
