@@ -5,13 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `8 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `6 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `8 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `8 ▶️` ∙ **[Keasbey Nights](https://www.last.fm/music/Streetlight+Manifesto/Keasbey+Nights)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `6 ▶️` ∙ **[Volcano](https://www.last.fm/music/Jungle/Volcano)** - [Jungle](https://www.last.fm/music/Jungle)<br/>
+> `5 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `4 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `3 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `3 ▶️` ∙ **[99 Songs Of Revolution Vol. 1](https://www.last.fm/music/Streetlight+Manifesto/99+Songs+Of+Revolution+Vol.+1)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `2 ▶️` ∙ **[For Ever](https://www.last.fm/music/Jungle/For+Ever)** - [Jungle](https://www.last.fm/music/Jungle)<br/>
 > `2 ▶️` ∙ **[Loving In Stereo](https://www.last.fm/music/Jungle/Loving+In+Stereo)** - [Jungle](https://www.last.fm/music/Jungle)<br/>
-> `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
-> `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
