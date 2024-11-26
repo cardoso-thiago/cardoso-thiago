@@ -13,7 +13,7 @@
 > `5 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `5 ▶️` ∙ **[Mr Finish Line](https://www.last.fm/music/Vulfpeck/Mr+Finish+Line)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `4 ▶️` ∙ **[Catch 22 Live (At The Downtown, Farmingdale, NY / August 30, 2004)](https://www.last.fm/music/Catch+22/Catch+22+Live+(At+The+Downtown,+Farmingdale,+NY+%2F+August+30,+2004))** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
-> `4 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `4 ▶️` ∙ **[Every Day I Tell Myself I'm Going to Be a Better Person](https://www.last.fm/music/Misser/Every+Day+I+Tell+Myself+I%27m+Going+to+Be+a+Better+Person)** - [Misser](https://www.last.fm/music/Misser)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
