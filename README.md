@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `7 ▶️` ∙ **[Kiss & Tell](https://www.last.fm/music/Sahara+Hotnights/Kiss+&+Tell)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
-> `6 ▶️` ∙ **[Violent Femmes](https://www.last.fm/music/Violent+Femmes/Violent+Femmes)** - [Violent Femmes](https://www.last.fm/music/Violent+Femmes)<br/>
-> `6 ▶️` ∙ **[Schvitz](https://www.last.fm/music/Vulfpeck/Schvitz)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `6 ▶️` ∙ **[Kiss & Tell](https://www.last.fm/music/Sahara+Hotnights/Kiss+&+Tell)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
 > `5 ▶️` ∙ **[Every Day I Tell Myself I'm Going to Be a Better Person](https://www.last.fm/music/Misser/Every+Day+I+Tell+Myself+I%27m+Going+to+Be+a+Better+Person)** - [Misser](https://www.last.fm/music/Misser)<br/>
-> `5 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `5 ▶️` ∙ **[Mr Finish Line](https://www.last.fm/music/Vulfpeck/Mr+Finish+Line)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `5 ▶️` ∙ **[Violent Femmes](https://www.last.fm/music/Violent+Femmes/Violent+Femmes)** - [Violent Femmes](https://www.last.fm/music/Violent+Femmes)<br/>
 > `4 ▶️` ∙ **[Catch 22 Live (At The Downtown, Farmingdale, NY / August 30, 2004)](https://www.last.fm/music/Catch+22/Catch+22+Live+(At+The+Downtown,+Farmingdale,+NY+%2F+August+30,+2004))** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
+> `4 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `3 ▶️` ∙ **[Remember That I Love You](https://www.last.fm/music/Kimya+Dawson/Remember+That+I+Love+You)** - [Kimya Dawson](https://www.last.fm/music/Kimya+Dawson)<br/>
 > `3 ▶️` ∙ **[COWBOY BEBOP (Original Motion Picture Soundtrack)](https://www.last.fm/music/Seatbelts/COWBOY+BEBOP+(Original+Motion+Picture+Soundtrack))** - [Seatbelts](https://www.last.fm/music/Seatbelts)<br/>
 > `3 ▶️` ∙ **[Sea Of Noise](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Sea+Of+Noise)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
+> `2 ▶️` ∙ **[Changes](https://www.last.fm/music/Charles+Bradley/Changes)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
+> `2 ▶️` ∙ **[Plans](https://www.last.fm/music/Death+Cab+for+Cutie/Plans)** - [Death Cab for Cutie](https://www.last.fm/music/Death+Cab+for+Cutie)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
