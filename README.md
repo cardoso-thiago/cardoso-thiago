@@ -6,14 +6,14 @@
 
 > `7 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `7 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `5 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `4 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `3 ▶️` ∙ **[99 Songs Of Revolution Vol. 1](https://www.last.fm/music/Streetlight+Manifesto/99+Songs+Of+Revolution+Vol.+1)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `2 ▶️` ∙ **[RATATATA](https://www.last.fm/music/BABYMETAL+e+Electric+Callboy/RATATATA)** - [BABYMETAL e Electric Callboy](https://www.last.fm/music/BABYMETAL+e+Electric+Callboy)<br/>
 > `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
