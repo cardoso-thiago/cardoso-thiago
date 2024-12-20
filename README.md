@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Bambix/Crossing+Common+Borders"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7580061b5506a4ef9085ee39e964de13.jpg" title="Bambix - Crossing Common Borders"></a> </p>
+<p align="center"></p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
