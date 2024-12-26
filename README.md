@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING"><img src="https://lastfm.freetls.fastly.net/i/u/64s/409d96c7d06d5d40fdfb7b9f563c0861.jpg" title="ATARASHII GAKKO! - AG! CALLING"></a> </p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
