@@ -8,11 +8,12 @@
 > `1 ▶️` ∙ **[Uprising](https://www.last.fm/music/Bob+Marley/Uprising)** - [Bob Marley](https://www.last.fm/music/Bob+Marley)<br/>
 > `1 ▶️` ∙ **[Victim of Love](https://www.last.fm/music/Charles+Bradley/Victim+of+Love)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `1 ▶️` ∙ **[Foo Fighters](https://www.last.fm/music/Foo+Fighters/Foo+Fighters)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
+> `1 ▶️` ∙ **[Can't Nobody Get Down EP](https://www.last.fm/music/Hot+8+Brass+Band/Can%27t+Nobody+Get+Down+EP)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `1 ▶️` ∙ **[You Are My Sunshine](https://www.last.fm/music/Jasmine+Thompson/You+Are+My+Sunshine)** - [Jasmine Thompson](https://www.last.fm/music/Jasmine+Thompson)<br/>
+> `1 ▶️` ∙ **[Ice, Death, Planets, Lungs, Mushrooms and Lava](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/Ice,+Death,+Planets,+Lungs,+Mushrooms+and+Lava)** - [King Gizzard & The Lizard Wizard](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard)<br/>
 > `1 ▶️` ∙ **[In Your Brain](https://www.last.fm/music/Monophonics/In+Your+Brain)** - [Monophonics](https://www.last.fm/music/Monophonics)<br/>
 > `1 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[El Camino](https://www.last.fm/music/The+Black+Keys/El+Camino)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
-> `1 ▶️` ∙ **[Turn Blue](https://www.last.fm/music/The+Black+Keys/Turn+Blue)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
+> `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
