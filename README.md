@@ -4,16 +4,11 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[AG! CALLING](https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
-> `1 ▶️` ∙ **[Uprising](https://www.last.fm/music/Bob+Marley/Uprising)** - [Bob Marley](https://www.last.fm/music/Bob+Marley)<br/>
-> `1 ▶️` ∙ **[Victim of Love](https://www.last.fm/music/Charles+Bradley/Victim+of+Love)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **[Foo Fighters](https://www.last.fm/music/Foo+Fighters/Foo+Fighters)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
 > `1 ▶️` ∙ **[Can't Nobody Get Down EP](https://www.last.fm/music/Hot+8+Brass+Band/Can%27t+Nobody+Get+Down+EP)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
-> `1 ▶️` ∙ **[You Are My Sunshine](https://www.last.fm/music/Jasmine+Thompson/You+Are+My+Sunshine)** - [Jasmine Thompson](https://www.last.fm/music/Jasmine+Thompson)<br/>
 > `1 ▶️` ∙ **[Ice, Death, Planets, Lungs, Mushrooms and Lava](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/Ice,+Death,+Planets,+Lungs,+Mushrooms+and+Lava)** - [King Gizzard & The Lizard Wizard](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard)<br/>
-> `1 ▶️` ∙ **[In Your Brain](https://www.last.fm/music/Monophonics/In+Your+Brain)** - [Monophonics](https://www.last.fm/music/Monophonics)<br/>
-> `1 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `1 ▶️` ∙ **[II: Power of Moonlite](https://www.last.fm/music/Tiger+Army/II:+Power+of+Moonlite)** - [Tiger Army](https://www.last.fm/music/Tiger+Army)<br/>
+> `1 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
