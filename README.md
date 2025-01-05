@@ -4,10 +4,13 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `1 ▶️` ∙ **[SNACKTIME](https://www.last.fm/music/ATARASHII+GAKKO!/SNACKTIME)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
 > `1 ▶️` ∙ **[Can't Nobody Get Down EP](https://www.last.fm/music/Hot+8+Brass+Band/Can%27t+Nobody+Get+Down+EP)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `1 ▶️` ∙ **[Ice, Death, Planets, Lungs, Mushrooms and Lava](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/Ice,+Death,+Planets,+Lungs,+Mushrooms+and+Lava)** - [King Gizzard & The Lizard Wizard](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard)<br/>
+> `1 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[II: Power of Moonlite](https://www.last.fm/music/Tiger+Army/II:+Power+of+Moonlite)** - [Tiger Army](https://www.last.fm/music/Tiger+Army)<br/>
+> `1 ▶️` ∙ **[Sunday Afternoon](https://www.last.fm/music/True+Loves/Sunday+Afternoon)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `1 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 <!--END_LASTFM_ALBUMS-->
 
