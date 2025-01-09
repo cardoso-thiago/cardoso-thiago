@@ -7,6 +7,7 @@
 > `1 ▶️` ∙ **[SNACKTIME](https://www.last.fm/music/ATARASHII+GAKKO!/SNACKTIME)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
 > `1 ▶️` ∙ **[Can't Nobody Get Down EP](https://www.last.fm/music/Hot+8+Brass+Band/Can%27t+Nobody+Get+Down+EP)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `1 ▶️` ∙ **[Ice, Death, Planets, Lungs, Mushrooms and Lava](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/Ice,+Death,+Planets,+Lungs,+Mushrooms+and+Lava)** - [King Gizzard & The Lizard Wizard](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard)<br/>
+> `1 ▶️` ∙ **[And The War Came (Ten Year Anniversary Edition)](https://www.last.fm/music/Shakey+Graves/And+The+War+Came+(Ten+Year+Anniversary+Edition))** - [Shakey Graves](https://www.last.fm/music/Shakey+Graves)<br/>
 > `1 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[II: Power of Moonlite](https://www.last.fm/music/Tiger+Army/II:+Power+of+Moonlite)** - [Tiger Army](https://www.last.fm/music/Tiger+Army)<br/>
