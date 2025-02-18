@@ -4,16 +4,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Cheap Thrills](https://www.last.fm/music/Big+Brother+&+The+Holding+Company/Cheap+Thrills)** - [Big Brother & The Holding Company](https://www.last.fm/music/Big+Brother+&+The+Holding+Company)<br/>
-> `1 ▶️` ∙ **[LIFTED Or The Story Is In The Soil, Keep Your Ear To The Ground](https://www.last.fm/music/Bright+Eyes/LIFTED+Or+The+Story+Is+In+The+Soil,+Keep+Your+Ear+To+The+Ground)** - [Bright Eyes](https://www.last.fm/music/Bright+Eyes)<br/>
-> `1 ▶️` ∙ **[Catch 22 Live (At The Downtown, Farmingdale, NY / August 30, 2004)](https://www.last.fm/music/Catch+22/Catch+22+Live+(At+The+Downtown,+Farmingdale,+NY+%2F+August+30,+2004))** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
-> `1 ▶️` ∙ **[Changes](https://www.last.fm/music/Charles+Bradley/Changes)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
-> `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `1 ▶️` ∙ **[The Rise and Fall of Ziggy Stardust and the Spiders From Mars](https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
-> `1 ▶️` ∙ **[One by One](https://www.last.fm/music/Foo+Fighters/One+by+One)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
-> `1 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `1 ▶️` ∙ **[With A Little Help From My Friends](https://www.last.fm/music/Joe+Cocker/With+A+Little+Help+From+My+Friends)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
