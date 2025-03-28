@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Bluey/Dance+Mode!"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c718e6a741403ac46d45b7195e52b826.jpg" title="Bluey - Dance Mode!"></a> <a href="https://www.last.fm/music/Bluey/Rug+Island"><img src="https://lastfm.freetls.fastly.net/i/u/64s/215fd9f8ffd45a0d76036b6b56e35acc.jpg" title="Bluey - Rug Island"></a> </p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
