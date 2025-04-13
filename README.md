@@ -5,6 +5,8 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `1 ▶️` ∙ **[RATATATA](https://www.last.fm/music/BABYMETAL+e+Electric+Callboy/RATATATA)** - [BABYMETAL e Electric Callboy](https://www.last.fm/music/BABYMETAL+e+Electric+Callboy)<br/>
+> `1 ▶️` ∙ **[Her Best](https://www.last.fm/music/Etta+James/Her+Best)** - [Etta James](https://www.last.fm/music/Etta+James)<br/>
+> `1 ▶️` ∙ **[Blood (Solo)](https://www.last.fm/music/Lianne+La+Havas/Blood+(Solo))** - [Lianne La Havas](https://www.last.fm/music/Lianne+La+Havas)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
