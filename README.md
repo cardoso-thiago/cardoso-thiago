@@ -4,11 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Her Best](https://www.last.fm/music/Etta+James/Her+Best)** - [Etta James](https://www.last.fm/music/Etta+James)<br/>
-> `1 ▶️` ∙ **[Good Thing](https://www.last.fm/music/Leon+Bridges/Good+Thing)** - [Leon Bridges](https://www.last.fm/music/Leon+Bridges)<br/>
-> `1 ▶️` ∙ **[Blood (Solo)](https://www.last.fm/music/Lianne+La+Havas/Blood+(Solo))** - [Lianne La Havas](https://www.last.fm/music/Lianne+La+Havas)<br/>
-> `1 ▶️` ∙ **[COWBOY BEBOP Vitaminless](https://www.last.fm/music/Mai+Yamane/COWBOY+BEBOP+Vitaminless)** - [Mai Yamane](https://www.last.fm/music/Mai+Yamane)<br/>
-> `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `2 ▶️` ∙ **[Emperor of Sand](https://www.last.fm/music/Mastodon/Emperor+of+Sand)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
+> `2 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `2 ▶️` ∙ **[Mr Finish Line](https://www.last.fm/music/Vulfpeck/Mr+Finish+Line)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `1 ▶️` ∙ **[Vaya](https://www.last.fm/music/At+the+Drive-In/Vaya)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `1 ▶️` ∙ **[AG! CALLING](https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
+> `1 ▶️` ∙ **[RATATATA](https://www.last.fm/music/BABYMETAL+e+Electric+Callboy/RATATATA)** - [BABYMETAL e Electric Callboy](https://www.last.fm/music/BABYMETAL+e+Electric+Callboy)<br/>
+> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[In The Time Of The Great Remembering](https://www.last.fm/music/Ben+Caplan/In+The+Time+Of+The+Great+Remembering)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
+> `1 ▶️` ∙ **[Changes](https://www.last.fm/music/Charles+Bradley/Changes)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
