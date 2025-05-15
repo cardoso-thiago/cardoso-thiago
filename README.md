@@ -4,16 +4,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[In the Time of the Great Remembering (Deluxe Edition)](https://www.last.fm/music/Ben+Caplan/In+the+Time+of+the+Great+Remembering+(Deluxe+Edition))** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
-> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
-> `1 ▶️` ∙ **[Hotel Vegas on Cassette](https://www.last.fm/music/Greyhounds/Hotel+Vegas+on+Cassette)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `1 ▶️` ∙ **[Liberty](https://www.last.fm/music/Greyhounds/Liberty)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `1 ▶️` ∙ **[Go Down Under](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Go+Down+Under)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
-> `1 ▶️` ∙ **[Start Together // 1994 - 2006](https://www.last.fm/music/Sleater-Kinney/Start+Together+%2F%2F+1994+-+2006)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
-> `1 ▶️` ∙ **[Rose](https://www.last.fm/music/The+Front+Bottoms/Rose)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
-> `1 ▶️` ∙ **[The Moldy Peaches](https://www.last.fm/music/The+Moldy+Peaches/The+Moldy+Peaches)** - [The Moldy Peaches](https://www.last.fm/music/The+Moldy+Peaches)<br/>
-> `1 ▶️` ∙ **[Lateralus](https://www.last.fm/music/Tool/Lateralus)** - [Tool](https://www.last.fm/music/Tool)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
