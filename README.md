@@ -4,7 +4,12 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `12 ▶️` ∙ **[Hawaiian Roller Coaster Ride (From "Lilo & Stitch")](https://www.last.fm/music/Disney,+Iam+Tongi+e+Kamehameha+Schools+Children%27s+Chorus/Hawaiian+Roller+Coaster+Ride+(From+%22Lilo+&+Stitch%22))** - [Disney, Iam Tongi e Kamehameha Schools Children's Chorus](https://www.last.fm/music/Disney,+Iam+Tongi+e+Kamehameha+Schools+Children%27s+Chorus)<br/>
+> `16 ▶️` ∙ **[Hawaiian Roller Coaster Ride (From "Lilo & Stitch")](https://www.last.fm/music/Disney,+Iam+Tongi+e+Kamehameha+Schools+Children%27s+Chorus/Hawaiian+Roller+Coaster+Ride+(From+%22Lilo+&+Stitch%22))** - [Disney, Iam Tongi e Kamehameha Schools Children's Chorus](https://www.last.fm/music/Disney,+Iam+Tongi+e+Kamehameha+Schools+Children%27s+Chorus)<br/>
+> `3 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `1 ▶️` ∙ **[Take A Break](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Take+A+Break)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `1 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `1 ▶️` ∙ **[Fever To Tell](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell)** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
