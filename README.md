@@ -4,7 +4,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Turning Red (Original Motion Picture Soundtrack)](https://www.last.fm/music/Ludwig+G%C3%B6ransson,+4*TOWN+(From+Disney+and+Pixar%E2%80%99s+Turning+Red),+Jordan+Fisher,+Finneas+O%27Connell,+Josh+Levi,+Topher+Ngo,+Grayson+Villanueva+e+Turning+Red+-+Cast/Turning+Red+(Original+Motion+Picture+Soundtrack))** - [Ludwig Göransson, 4*TOWN (From Disney and Pixar’s Turning Red), Jordan Fisher, Finneas O'Connell, Josh Levi, Topher Ngo, Grayson Villanueva e Turning Red - Cast](https://www.last.fm/music/Ludwig+G%C3%B6ransson,+4*TOWN+(From+Disney+and+Pixar%E2%80%99s+Turning+Red),+Jordan+Fisher,+Finneas+O%27Connell,+Josh+Levi,+Topher+Ngo,+Grayson+Villanueva+e+Turning+Red+-+Cast)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
