@@ -7,11 +7,11 @@
 > `7 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `3 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `3 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `3 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `3 ▶️` ∙ **[Flow State](https://www.last.fm/music/Tash+Sultana/Flow+State)** - [Tash Sultana](https://www.last.fm/music/Tash+Sultana)<br/>
+> `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `2 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
-> `2 ▶️` ∙ **[Kiss & Tell](https://www.last.fm/music/Sahara+Hotnights/Kiss+&+Tell)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
 > `2 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
-> `1 ▶️` ∙ **[Respect](https://www.last.fm/music/Aretha+Franklin/Respect)** - [Aretha Franklin](https://www.last.fm/music/Aretha+Franklin)<br/>
+> `1 ▶️` ∙ **[Acrobatic Tenement](https://www.last.fm/music/At+the+Drive-In/Acrobatic+Tenement)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Because the Internet](https://www.last.fm/music/Childish+Gambino/Because+the+Internet)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 <!--END_LASTFM_ALBUMS-->
