@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
-> `1 ▶️` ∙ **[The Gates](https://www.last.fm/music/Aesop+Rock/The+Gates)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[This Station Is Non‐Operational](https://www.last.fm/music/At+the+Drive-In/This+Station+Is+Non%E2%80%90Operational)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[O seguinte é esse](https://www.last.fm/music/Barbatuques/O+seguinte+%C3%A9+esse)** - [Barbatuques](https://www.last.fm/music/Barbatuques)<br/>
-> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Birds With Broken Wings](https://www.last.fm/music/Ben+Caplan/Birds+With+Broken+Wings)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
-> `1 ▶️` ∙ **[In the Time of the Great Remembering (Deluxe Edition)](https://www.last.fm/music/Ben+Caplan/In+the+Time+of+the+Great+Remembering+(Deluxe+Edition))** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `1 ▶️` ∙ **[Summertime Magic](https://www.last.fm/music/Childish+Gambino/Summertime+Magic)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `1 ▶️` ∙ **[Careless Whisper](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Careless+Whisper)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Hotel Vegas on Cassette](https://www.last.fm/music/Greyhounds/Hotel+Vegas+on+Cassette)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[No Mas](https://www.last.fm/music/Greyhounds/No+Mas)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[Surrealistic Pillow](https://www.last.fm/music/Jefferson+Airplane/Surrealistic+Pillow)** - [Jefferson Airplane](https://www.last.fm/music/Jefferson+Airplane)<br/>
+> `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
+> `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
