@@ -4,11 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[Rock with the Hot 8](https://www.last.fm/music/Hot+8+Brass+Band/Rock+with+the+Hot+8)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
+> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Janis+Joplin/Greatest+Hits)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
+> `1 ▶️` ∙ **[Only by the Night](https://www.last.fm/music/Kings+of+Leon/Only+by+the+Night)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
+> `1 ▶️` ∙ **[In Your Brain](https://www.last.fm/music/Monophonics/In+Your+Brain)** - [Monophonics](https://www.last.fm/music/Monophonics)<br/>
+> `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
+> `1 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `1 ▶️` ∙ **[Red Fang](https://www.last.fm/music/Red+Fang/Red+Fang)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
-> `1 ▶️` ∙ **[Keasbey Nights](https://www.last.fm/music/Streetlight+Manifesto/Keasbey+Nights)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `1 ▶️` ∙ **[Electric Feel (triple j Like A Version)](https://www.last.fm/music/Tash+Sultana/Electric+Feel+(triple+j+Like+A+Version))** - [Tash Sultana](https://www.last.fm/music/Tash+Sultana)<br/>
-> `1 ▶️` ∙ **[Famous Last Words (2022 Remaster)](https://www.last.fm/music/True+Loves/Famous+Last+Words+(2022+Remaster))** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
+> `1 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
