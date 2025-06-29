@@ -4,6 +4,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[The Hot Rock](https://www.last.fm/music/Sleater-Kinney/The+Hot+Rock)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
 > `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Rock with the Hot 8](https://www.last.fm/music/Hot+8+Brass+Band/Rock+with+the+Hot+8)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Janis+Joplin/Greatest+Hits)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
@@ -13,7 +14,6 @@
 > `1 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 > `1 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `1 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
-> `1 ▶️` ∙ **[Kiss & Tell](https://www.last.fm/music/Sahara+Hotnights/Kiss+&+Tell)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
