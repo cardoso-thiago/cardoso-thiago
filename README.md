@@ -7,13 +7,13 @@
 > `2 ▶️` ∙ **[The Hot Rock](https://www.last.fm/music/Sleater-Kinney/The+Hot+Rock)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
 > `2 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[Spotify Singles](https://www.last.fm/music/Black+Pumas/Spotify+Singles)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[The Dance](https://www.last.fm/music/Fleetwood+Mac/The+Dance)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `1 ▶️` ∙ **[One by One](https://www.last.fm/music/Foo+Fighters/One+by+One)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
-> `1 ▶️` ∙ **[Rock with the Hot 8](https://www.last.fm/music/Hot+8+Brass+Band/Rock+with+the+Hot+8)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
-> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Janis+Joplin/Greatest+Hits)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
 > `1 ▶️` ∙ **[The Legend of Johnny Cash](https://www.last.fm/music/Johnny+Cash/The+Legend+of+Johnny+Cash)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
 > `1 ▶️` ∙ **[Unearthed](https://www.last.fm/music/Johnny+Cash/Unearthed)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
+> `1 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `1 ▶️` ∙ **[Same](https://www.last.fm/music/Nerd+Academy/Same)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
+> `1 ▶️` ∙ **[Greatest Hits II](https://www.last.fm/music/Queen/Greatest+Hits+II)** - [Queen](https://www.last.fm/music/Queen)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
