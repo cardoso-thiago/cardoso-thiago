@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[The Hot Rock](https://www.last.fm/music/Sleater-Kinney/The+Hot+Rock)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
-> `2 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[Spotify Singles](https://www.last.fm/music/Black+Pumas/Spotify+Singles)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **[The Dance](https://www.last.fm/music/Fleetwood+Mac/The+Dance)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `1 ▶️` ∙ **[One by One](https://www.last.fm/music/Foo+Fighters/One+by+One)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
-> `1 ▶️` ∙ **[The Legend of Johnny Cash](https://www.last.fm/music/Johnny+Cash/The+Legend+of+Johnny+Cash)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
 > `1 ▶️` ∙ **[Unearthed](https://www.last.fm/music/Johnny+Cash/Unearthed)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
 > `1 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
 > `1 ▶️` ∙ **[Same](https://www.last.fm/music/Nerd+Academy/Same)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 > `1 ▶️` ∙ **[Greatest Hits II](https://www.last.fm/music/Queen/Greatest+Hits+II)** - [Queen](https://www.last.fm/music/Queen)<br/>
+> `1 ▶️` ∙ **[...And the Battle Begun](https://www.last.fm/music/Rx+Bandits/...And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `1 ▶️` ∙ **[Jennie Bomb](https://www.last.fm/music/Sahara+Hotnights/Jennie+Bomb)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
