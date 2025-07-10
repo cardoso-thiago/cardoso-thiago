@@ -4,16 +4,15 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[...And the Battle Begun](https://www.last.fm/music/Rx+Bandits/...And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `1 ▶️` ∙ **[2001-02-04: The Trabendo, Paris, France](https://www.last.fm/music/At+the+Drive-In/2001-02-04:+The+Trabendo,+Paris,+France)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Spotify Singles](https://www.last.fm/music/Black+Pumas/Spotify+Singles)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **[Alone In a Crowd](https://www.last.fm/music/Catch+22/Alone+In+a+Crowd)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
 > `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
-> `1 ▶️` ∙ **[The Dance](https://www.last.fm/music/Fleetwood+Mac/The+Dance)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `1 ▶️` ∙ **[One by One](https://www.last.fm/music/Foo+Fighters/One+by+One)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
-> `1 ▶️` ∙ **[Unearthed](https://www.last.fm/music/Johnny+Cash/Unearthed)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
-> `1 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
-> `1 ▶️` ∙ **[Same](https://www.last.fm/music/Nerd+Academy/Same)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
+> `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `1 ▶️` ∙ **[...And the Battle Begun](https://www.last.fm/music/Rx+Bandits/...And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `1 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `1 ▶️` ∙ **[The Brutalist Bricks](https://www.last.fm/music/Ted+Leo+and+the+Pharmacists/The+Brutalist+Bricks)** - [Ted Leo and the Pharmacists](https://www.last.fm/music/Ted+Leo+and+the+Pharmacists)<br/>
+> `1 ▶️` ∙ **["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://www.last.fm/music/The+Taxpayers/%22God,+Forgive+These+Bastards%22+Songs+From+The+Forgotten+Life+of+Henry+Turner)** - [The Taxpayers](https://www.last.fm/music/The+Taxpayers)<br/>
+> `1 ▶️` ∙ **[The Beyond / Where the Giants Roam](https://www.last.fm/music/Thundercat/The+Beyond+%2F+Where+the+Giants+Roam)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
