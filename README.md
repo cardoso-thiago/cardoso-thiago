@@ -4,15 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `2 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
+> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[2001-02-04: The Trabendo, Paris, France](https://www.last.fm/music/At+the+Drive-In/2001-02-04:+The+Trabendo,+Paris,+France)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **[Alone In a Crowd](https://www.last.fm/music/Catch+22/Alone+In+a+Crowd)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
-> `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
-> `1 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `1 ▶️` ∙ **[...And the Battle Begun](https://www.last.fm/music/Rx+Bandits/...And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `1 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `1 ▶️` ∙ **[The Brutalist Bricks](https://www.last.fm/music/Ted+Leo+and+the+Pharmacists/The+Brutalist+Bricks)** - [Ted Leo and the Pharmacists](https://www.last.fm/music/Ted+Leo+and+the+Pharmacists)<br/>
-> `1 ▶️` ∙ **["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://www.last.fm/music/The+Taxpayers/%22God,+Forgive+These+Bastards%22+Songs+From+The+Forgotten+Life+of+Henry+Turner)** - [The Taxpayers](https://www.last.fm/music/The+Taxpayers)<br/>
-> `1 ▶️` ∙ **[The Beyond / Where the Giants Roam](https://www.last.fm/music/Thundercat/The+Beyond+%2F+Where+the+Giants+Roam)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
+> `1 ▶️` ∙ **[Summer Pack](https://www.last.fm/music/Childish+Gambino/Summer+Pack)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[I Got Dem Ol' Kozmic Blues Again Mama!](https://www.last.fm/music/Janis+Joplin/I+Got+Dem+Ol%27+Kozmic+Blues+Again+Mama!)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
+> `1 ▶️` ∙ **[The Moon Song (Music From And Inspired By The Motion Picture Her)](https://www.last.fm/music/Karen+O+e+Ezra+Koenig/The+Moon+Song+(Music+From+And+Inspired+By+The+Motion+Picture+Her))** - [Karen O e Ezra Koenig](https://www.last.fm/music/Karen+O+e+Ezra+Koenig)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
