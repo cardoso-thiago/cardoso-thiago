@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
-> `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `2 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `2 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[AG! CALLING](https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
-> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
+> `1 ▶️` ∙ **[Carryin' On With Johnny Cash And June Carter](https://www.last.fm/music/Johnny+Cash+e+June+Carter+Cash/Carryin%27+On+With+Johnny+Cash+And+June+Carter)** - [Johnny Cash e June Carter Cash](https://www.last.fm/music/Johnny+Cash+e+June+Carter+Cash)<br/>
+> `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
+> `1 ▶️` ∙ **[A Night at the Opera](https://www.last.fm/music/Queen/A+Night+at+the+Opera)** - [Queen](https://www.last.fm/music/Queen)<br/>
+> `1 ▶️` ∙ **[Kiss & Tell](https://www.last.fm/music/Sahara+Hotnights/Kiss+&+Tell)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
+> `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `1 ▶️` ∙ **[Shake the Sheets](https://www.last.fm/music/Ted+Leo+e+The+Pharmacists/Shake+the+Sheets)** - [Ted Leo e The Pharmacists](https://www.last.fm/music/Ted+Leo+e+The+Pharmacists)<br/>
+> `1 ▶️` ∙ **[O Descobridor Dos Sete Mares](https://www.last.fm/music/Tim+Maia/O+Descobridor+Dos+Sete+Mares)** - [Tim Maia](https://www.last.fm/music/Tim+Maia)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
