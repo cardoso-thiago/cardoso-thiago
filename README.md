@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
+> `2 ▶️` ∙ **[Turn Blue](https://www.last.fm/music/The+Black+Keys/Turn+Blue)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
 > `1 ▶️` ∙ **[AG! CALLING](https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
-> `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `1 ▶️` ∙ **[Carryin' On With Johnny Cash And June Carter](https://www.last.fm/music/Johnny+Cash+e+June+Carter+Cash/Carryin%27+On+With+Johnny+Cash+And+June+Carter)** - [Johnny Cash e June Carter Cash](https://www.last.fm/music/Johnny+Cash+e+June+Carter+Cash)<br/>
 > `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 > `1 ▶️` ∙ **[A Night at the Opera](https://www.last.fm/music/Queen/A+Night+at+the+Opera)** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `1 ▶️` ∙ **[Kiss & Tell](https://www.last.fm/music/Sahara+Hotnights/Kiss+&+Tell)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
+> `1 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Shake the Sheets](https://www.last.fm/music/Ted+Leo+e+The+Pharmacists/Shake+the+Sheets)** - [Ted Leo e The Pharmacists](https://www.last.fm/music/Ted+Leo+e+The+Pharmacists)<br/>
-> `1 ▶️` ∙ **[O Descobridor Dos Sete Mares](https://www.last.fm/music/Tim+Maia/O+Descobridor+Dos+Sete+Mares)** - [Tim Maia](https://www.last.fm/music/Tim+Maia)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
