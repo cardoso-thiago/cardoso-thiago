@@ -5,9 +5,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[Turn Blue](https://www.last.fm/music/The+Black+Keys/Turn+Blue)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
-> `1 ▶️` ∙ **[AG! CALLING](https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
 > `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `1 ▶️` ∙ **[No Time for Dreaming](https://www.last.fm/music/Charles+Bradley/No+Time+for+Dreaming)** - [Charles Bradley](https://www.last.fm/music/Charles+Bradley)<br/>
 > `1 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[Tallahassee](https://www.last.fm/music/The+Mountain+Goats/Tallahassee)** - [The Mountain Goats](https://www.last.fm/music/The+Mountain+Goats)<br/>
 > `1 ▶️` ∙ **[Love and the Death of Damnation](https://www.last.fm/music/The+White+Buffalo/Love+and+the+Death+of+Damnation)** - [The White Buffalo](https://www.last.fm/music/The+White+Buffalo)<br/>
