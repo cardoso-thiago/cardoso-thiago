@@ -4,8 +4,11 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `4 ▶️` ∙ **[The Beyond / Where the Giants Roam](https://www.last.fm/music/Thundercat/The+Beyond+%2F+Where+the+Giants+Roam)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
 > `2 ▶️` ∙ **[Turn Blue](https://www.last.fm/music/The+Black+Keys/Turn+Blue)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
+> `2 ▶️` ∙ **[It Is What It Is](https://www.last.fm/music/Thundercat/It+Is+What+It+Is)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
 > `1 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
+> `1 ▶️` ∙ **[Why Lawd?](https://www.last.fm/music/NxWorries,+Anderson+.Paak,+Knxwledge+e+Thundercat/Why+Lawd%3F)** - [NxWorries, Anderson .Paak, Knxwledge e Thundercat](https://www.last.fm/music/NxWorries,+Anderson+.Paak,+Knxwledge+e+Thundercat)<br/>
 > `1 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
 > `1 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `1 ▶️` ∙ **[Tallahassee](https://www.last.fm/music/The+Mountain+Goats/Tallahassee)** - [The Mountain Goats](https://www.last.fm/music/The+Mountain+Goats)<br/>
