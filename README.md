@@ -4,10 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `3 ▶️` ∙ **[Drunk](https://www.last.fm/music/Thundercat/Drunk)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
 > `2 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
-> `2 ▶️` ∙ **[Drunk](https://www.last.fm/music/Thundercat/Drunk)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
 > `2 ▶️` ∙ **[The Golden Age of Apocalypse](https://www.last.fm/music/Thundercat/The+Golden+Age+of+Apocalypse)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
-> `1 ▶️` ∙ **[The Beyond / Where the Giants Roam](https://www.last.fm/music/Thundercat/The+Beyond+%2F+Where+the+Giants+Roam)** - [Thundercat](https://www.last.fm/music/Thundercat)<br/>
+> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `1 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `1 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
+> `1 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `1 ▶️` ∙ **[Inside In Inside Out](https://www.last.fm/music/The+Kooks/Inside+In+Inside+Out)** - [The Kooks](https://www.last.fm/music/The+Kooks)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
