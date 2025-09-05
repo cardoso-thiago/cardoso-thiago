@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `5 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
-> `3 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `3 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
+> `8 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
+> `4 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
+> `3 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `3 ▶️` ∙ **[Ænima](https://www.last.fm/music/Tool/%C3%86nima)** - [Tool](https://www.last.fm/music/Tool)<br/>
 > `3 ▶️` ∙ **[Lateralus](https://www.last.fm/music/Tool/Lateralus)** - [Tool](https://www.last.fm/music/Tool)<br/>
-> `2 ▶️` ∙ **[Talon of the Hawk](https://www.last.fm/music/The+Front+Bottoms/Talon+of+the+Hawk)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
-> `2 ▶️` ∙ **[w h o k i l l](https://www.last.fm/music/Tune-Yards/w+h+o+k+i+l+l)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
-> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[2 Em 1](https://www.last.fm/music/Alceu+Valen%C3%A7a/2+Em+1)** - [Alceu Valença](https://www.last.fm/music/Alceu+Valen%C3%A7a)<br/>
-> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `2 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `2 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `2 ▶️` ∙ **[Ruin Jonny's Bar Mitzvah](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Ruin+Jonny%27s+Bar+Mitzvah)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `2 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `2 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
