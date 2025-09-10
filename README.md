@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `5 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `4 ▶️` ∙ **[COWBOY BEBOP (Original Motion Picture Soundtrack)](https://www.last.fm/music/Seatbelts/COWBOY+BEBOP+(Original+Motion+Picture+Soundtrack))** - [Seatbelts](https://www.last.fm/music/Seatbelts)<br/>
+> `4 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
 > `4 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
-> `4 ▶️` ∙ **[Lateralus](https://www.last.fm/music/Tool/Lateralus)** - [Tool](https://www.last.fm/music/Tool)<br/>
+> `4 ▶️` ∙ **[Famous Last Words](https://www.last.fm/music/True+Loves/Famous+Last+Words)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `3 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 > `3 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
 > `3 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `3 ▶️` ∙ **[Ænima](https://www.last.fm/music/Tool/%C3%86nima)** - [Tool](https://www.last.fm/music/Tool)<br/>
-> `2 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `2 ▶️` ∙ **[Rock with the Hot 8](https://www.last.fm/music/Hot+8+Brass+Band/Rock+with+the+Hot+8)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
-> `2 ▶️` ∙ **[Ruin Jonny's Bar Mitzvah](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Ruin+Jonny%27s+Bar+Mitzvah)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
-> `2 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `3 ▶️` ∙ **[Lateralus](https://www.last.fm/music/Tool/Lateralus)** - [Tool](https://www.last.fm/music/Tool)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
