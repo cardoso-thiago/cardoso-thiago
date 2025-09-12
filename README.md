@@ -4,15 +4,15 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `5 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `4 ▶️` ∙ **[COWBOY BEBOP (Original Motion Picture Soundtrack)](https://www.last.fm/music/Seatbelts/COWBOY+BEBOP+(Original+Motion+Picture+Soundtrack))** - [Seatbelts](https://www.last.fm/music/Seatbelts)<br/>
+> `7 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `7 ▶️` ∙ **[Famous Last Words](https://www.last.fm/music/True+Loves/Famous+Last+Words)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
+> `5 ▶️` ∙ **[COWBOY BEBOP (Original Motion Picture Soundtrack)](https://www.last.fm/music/Seatbelts/COWBOY+BEBOP+(Original+Motion+Picture+Soundtrack))** - [Seatbelts](https://www.last.fm/music/Seatbelts)<br/>
 > `4 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
-> `4 ▶️` ∙ **[Famous Last Words](https://www.last.fm/music/True+Loves/Famous+Last+Words)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
-> `3 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
-> `3 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
-> `3 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `2 ▶️` ∙ **[None Shall Pass](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
-> `2 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `3 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `3 ▶️` ∙ **[Fly](https://www.last.fm/music/Lettuce/Fly)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
+> `3 ▶️` ∙ **[hill climber](https://www.last.fm/music/Vulfpeck/hill+climber)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `2 ▶️` ∙ **[Motivational Music For The Syncopated Soul](https://www.last.fm/music/Cory+Wong/Motivational+Music+For+The+Syncopated+Soul)** - [Cory Wong](https://www.last.fm/music/Cory+Wong)<br/>
+> `2 ▶️` ∙ **[Concussion](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Concussion)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Rock with the Hot 8](https://www.last.fm/music/Hot+8+Brass+Band/Rock+with+the+Hot+8)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 <!--END_LASTFM_ALBUMS-->
 
