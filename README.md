@@ -6,14 +6,14 @@
 
 > `5 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `5 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `4 ▶️` ∙ **[Famous Last Words](https://www.last.fm/music/True+Loves/Famous+Last+Words)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
-> `3 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `3 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `3 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `3 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
+> `3 ▶️` ∙ **[Are We Not Men? We Are Diva!](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Are+We+Not+Men%3F+We+Are+Diva!)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
 > `3 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 > `3 ▶️` ∙ **[Kiss & Tell](https://www.last.fm/music/Sahara+Hotnights/Kiss+&+Tell)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
-> `3 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `3 ▶️` ∙ **[Fever To Tell](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell)** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
 > `2 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `2 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `2 ▶️` ∙ **[Black Pumas (Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
