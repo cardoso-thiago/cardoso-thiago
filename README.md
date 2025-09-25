@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `4 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `4 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `4 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `3 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `3 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `3 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `3 ▶️` ∙ **[ON THE SPOT](https://www.last.fm/music/Hot+8+Brass+Band/ON+THE+SPOT)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
+> `3 ▶️` ∙ **[2020-01-30: Roxian Theatre, McKees Rocks, PA](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/2020-01-30:+Roxian+Theatre,+McKees+Rocks,+PA)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `3 ▶️` ∙ **[Cowboy Bebop](https://www.last.fm/music/The+Seatbelts/Cowboy+Bebop)** - [The Seatbelts](https://www.last.fm/music/The+Seatbelts)<br/>
 > `2 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `2 ▶️` ∙ **[The Colour and the Shape](https://www.last.fm/music/Foo+Fighters/The+Colour+and+the+Shape)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
-> `2 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[Are We Not Men? We Are Diva!](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Are+We+Not+Men%3F+We+Are+Diva!)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `2 ▶️` ∙ **[ON THE SPOT](https://www.last.fm/music/Hot+8+Brass+Band/ON+THE+SPOT)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
+> `2 ▶️` ∙ **[Pearl](https://www.last.fm/music/Janis+Joplin/Pearl)** - [Janis Joplin](https://www.last.fm/music/Janis+Joplin)<br/>
+> `2 ▶️` ∙ **[Crush](https://www.last.fm/music/Lettuce/Crush)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
