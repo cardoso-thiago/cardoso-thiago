@@ -13,7 +13,7 @@
 > `3 ▶️` ∙ **[Fly](https://www.last.fm/music/Lettuce/Fly)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
 > `3 ▶️` ∙ **[hill climber](https://www.last.fm/music/Vulfpeck/hill+climber)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `3 ▶️` ∙ **[The Beautiful Game](https://www.last.fm/music/Vulfpeck/The+Beautiful+Game)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `2 ▶️` ∙ **[We Like It Here](https://www.last.fm/music/Snarky+Puppy/We+Like+It+Here)** - [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
