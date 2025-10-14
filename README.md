@@ -10,10 +10,10 @@
 > `2 ▶️` ∙ **[A Night at the Opera](https://www.last.fm/music/Queen/A+Night+at+the+Opera)** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `2 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
 > `2 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
-> `2 ▶️` ∙ **[Inside In / Inside Out](https://www.last.fm/music/The+Kooks/Inside+In+%2F+Inside+Out)** - [The Kooks](https://www.last.fm/music/The+Kooks)<br/>
 > `2 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
-> `1 ▶️` ∙ **[None Shall Pass](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[Sete Desejos](https://www.last.fm/music/Alceu+Valen%C3%A7a/Sete+Desejos)** - [Alceu Valença](https://www.last.fm/music/Alceu+Valen%C3%A7a)<br/>
+> `1 ▶️` ∙ **[Do I Wanna Know?](https://www.last.fm/music/Arctic+Monkeys/Do+I+Wanna+Know%3F)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `1 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
