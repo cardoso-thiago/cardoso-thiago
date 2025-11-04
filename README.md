@@ -6,14 +6,14 @@
 
 > `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `2 ▶️` ∙ **[One Beat](https://www.last.fm/music/Sleater-Kinney/One+Beat)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
+> `2 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `2 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[Acrobatic Tenement](https://www.last.fm/music/At+the+Drive-In/Acrobatic+Tenement)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Blue Record](https://www.last.fm/music/Baroness/Blue+Record)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Legend](https://www.last.fm/music/Bob+Marley+&+The+Wailers/Legend)** - [Bob Marley & The Wailers](https://www.last.fm/music/Bob+Marley+&+The+Wailers)<br/>
 > `1 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
-> `1 ▶️` ∙ **[3005](https://www.last.fm/music/Childish+Gambino/3005)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
