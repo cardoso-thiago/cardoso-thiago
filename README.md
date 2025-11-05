@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `2 ▶️` ∙ **[One Beat](https://www.last.fm/music/Sleater-Kinney/One+Beat)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
-> `2 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `2 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Acrobatic Tenement](https://www.last.fm/music/At+the+Drive-In/Acrobatic+Tenement)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Blue Record](https://www.last.fm/music/Baroness/Blue+Record)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Built On Glass](https://www.last.fm/music/Chet+Faker/Built+On+Glass)** - [Chet Faker](https://www.last.fm/music/Chet+Faker)<br/>
+> `8 ▶️` ∙ **[Toxicity](https://www.last.fm/music/System+of+a+Down/Toxicity)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `7 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `3 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `3 ▶️` ∙ **[Hypnotize](https://www.last.fm/music/System+of+a+Down/Hypnotize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `3 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `3 ▶️` ∙ **[Talon of the Hawk](https://www.last.fm/music/The+Front+Bottoms/Talon+of+the+Hawk)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
+> `2 ▶️` ∙ **[Ocean Rain](https://www.last.fm/music/Echo+&+the+Bunnymen/Ocean+Rain)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
+> `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `2 ▶️` ∙ **[Every Day I Tell Myself I'm Going to Be a Better Person](https://www.last.fm/music/Misser/Every+Day+I+Tell+Myself+I%27m+Going+to+Be+a+Better+Person)** - [Misser](https://www.last.fm/music/Misser)<br/>
+> `2 ▶️` ∙ **[Nação Zumbi (2014)](https://www.last.fm/music/Na%C3%A7%C3%A3o+Zumbi/Na%C3%A7%C3%A3o+Zumbi+(2014))** - [Nação Zumbi](https://www.last.fm/music/Na%C3%A7%C3%A3o+Zumbi)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
