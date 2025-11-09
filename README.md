@@ -10,10 +10,10 @@
 > `3 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down/System+of+a+Down)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `3 ▶️` ∙ **[System Of A Down (Bonus Pack)](https://www.last.fm/music/System+of+a+Down/System+Of+A+Down+(Bonus+Pack))** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `3 ▶️` ∙ **[Cowboy Bebop](https://www.last.fm/music/The+Seatbelts/Cowboy+Bebop)** - [The Seatbelts](https://www.last.fm/music/The+Seatbelts)<br/>
+> `2 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `2 ▶️` ∙ **[Ocean Rain](https://www.last.fm/music/Echo+&+the+Bunnymen/Ocean+Rain)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
 > `2 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[Con Todo El Mundo](https://www.last.fm/music/Khruangbin/Con+Todo+El+Mundo)** - [Khruangbin](https://www.last.fm/music/Khruangbin)<br/>
-> `2 ▶️` ∙ **[Idioma Morto](https://www.last.fm/music/Ludovic/Idioma+Morto)** - [Ludovic](https://www.last.fm/music/Ludovic)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
