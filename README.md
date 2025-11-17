@@ -6,14 +6,14 @@
 
 > `3 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `3 ▶️` ∙ **[Fly](https://www.last.fm/music/Lettuce/Fly)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
+> `2 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
+> `2 ▶️` ∙ **[The Greatest Hits 1970-2002](https://www.last.fm/music/Elton+John/The+Greatest+Hits+1970-2002)** - [Elton John](https://www.last.fm/music/Elton+John)<br/>
 > `2 ▶️` ∙ **[The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers/The+Fearless+Flyers)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
 > `2 ▶️` ∙ **[Simping Songs](https://www.last.fm/music/Various+Artists/Simping+Songs)** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
-> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `2 ▶️` ∙ **[Weezer (Teal Album)](https://www.last.fm/music/Weezer/Weezer+(Teal+Album))** - [Weezer](https://www.last.fm/music/Weezer)<br/>
+> `1 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 > `1 ▶️` ∙ **[The Element of Freedom](https://www.last.fm/music/Alicia+Keys/The+Element+of+Freedom)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Mellow Gold](https://www.last.fm/music/Beck/Mellow+Gold)** - [Beck](https://www.last.fm/music/Beck)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
