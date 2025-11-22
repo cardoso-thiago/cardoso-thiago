@@ -9,11 +9,11 @@
 > `2 ▶️` ∙ **[Exodus](https://www.last.fm/music/Bob+Marley+&+The+Wailers/Exodus)** - [Bob Marley & The Wailers](https://www.last.fm/music/Bob+Marley+&+The+Wailers)<br/>
 > `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
 > `2 ▶️` ∙ **[Rated R](https://www.last.fm/music/Queens+of+the+Stone+Age/Rated+R)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `2 ▶️` ∙ **[Charge!!](https://www.last.fm/music/The+Aquabats/Charge!!)** - [The Aquabats](https://www.last.fm/music/The+Aquabats)<br/>
 > `1 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[From Beale Street to Oblivion](https://www.last.fm/music/Clutch/From+Beale+Street+to+Oblivion)** - [Clutch](https://www.last.fm/music/Clutch)<br/>
 > `1 ▶️` ∙ **[Days N' Daze / Broken Bow Split](https://www.last.fm/music/Days+N%27+Daze+%2F+Broken+Bow+%2F+Brando+Chemtrails/Days+N%27+Daze+%2F+Broken+Bow+Split)** - [Days N' Daze / Broken Bow / Brando Chemtrails](https://www.last.fm/music/Days+N%27+Daze+%2F+Broken+Bow+%2F+Brando+Chemtrails)<br/>
+> `1 ▶️` ∙ **[Dire Straits](https://www.last.fm/music/Dire+Straits/Dire+Straits)** - [Dire Straits](https://www.last.fm/music/Dire+Straits)<br/>
+> `1 ▶️` ∙ **[The Greatest Hits 1970-2002](https://www.last.fm/music/Elton+John/The+Greatest+Hits+1970-2002)** - [Elton John](https://www.last.fm/music/Elton+John)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
