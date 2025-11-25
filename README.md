@@ -9,11 +9,11 @@
 > `2 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Days N' Daze / Broken Bow Split](https://www.last.fm/music/Days+N%27+Daze+%2F+Broken+Bow+%2F+Brando+Chemtrails/Days+N%27+Daze+%2F+Broken+Bow+Split)** - [Days N' Daze / Broken Bow / Brando Chemtrails](https://www.last.fm/music/Days+N%27+Daze+%2F+Broken+Bow+%2F+Brando+Chemtrails)<br/>
-> `1 ▶️` ∙ **[PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/PetroDragonic+Apocalypse;+or,+Dawn+of+Eternal+Night:+An+Annihilation+of+Planet+Earth+and+the+Beginning+of+Merciless+Damnation)** - [King Gizzard & The Lizard Wizard](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard)<br/>
+> `1 ▶️` ∙ **[A Real Mother For Ya](https://www.last.fm/music/Johnny+%27Guitar%27+Watson/A+Real+Mother+For+Ya)** - [Johnny 'Guitar' Watson](https://www.last.fm/music/Johnny+%27Guitar%27+Watson)<br/>
 > `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 > `1 ▶️` ∙ **[Youth & Young Manhood](https://www.last.fm/music/Kings+of+Leon/Youth+&+Young+Manhood)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
+> `1 ▶️` ∙ **[Fly](https://www.last.fm/music/Lettuce/Fly)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
 > `1 ▶️` ∙ **[The Ultimate Luther Vandross](https://www.last.fm/music/Luther+Vandross/The+Ultimate+Luther+Vandross)** - [Luther Vandross](https://www.last.fm/music/Luther+Vandross)<br/>
-> `1 ▶️` ∙ **[This Is My Truth Tell Me Yours](https://www.last.fm/music/Manic+Street+Preachers/This+Is+My+Truth+Tell+Me+Yours)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
