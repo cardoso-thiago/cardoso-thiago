@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `4 ▶️` ∙ **[Newen Plays Fela](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti/Newen+Plays+Fela)** - [Newen Afrobeat e Seun Kuti](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti)<br/>
-> `2 ▶️` ∙ **[Exodus](https://www.last.fm/music/Bob+Marley+&+The+Wailers/Exodus)** - [Bob Marley & The Wailers](https://www.last.fm/music/Bob+Marley+&+The+Wailers)<br/>
-> `2 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Days N' Daze / Broken Bow Split](https://www.last.fm/music/Days+N%27+Daze+%2F+Broken+Bow+%2F+Brando+Chemtrails/Days+N%27+Daze+%2F+Broken+Bow+Split)** - [Days N' Daze / Broken Bow / Brando Chemtrails](https://www.last.fm/music/Days+N%27+Daze+%2F+Broken+Bow+%2F+Brando+Chemtrails)<br/>
 > `1 ▶️` ∙ **[A Real Mother For Ya](https://www.last.fm/music/Johnny+%27Guitar%27+Watson/A+Real+Mother+For+Ya)** - [Johnny 'Guitar' Watson](https://www.last.fm/music/Johnny+%27Guitar%27+Watson)<br/>
-> `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
-> `1 ▶️` ∙ **[Youth & Young Manhood](https://www.last.fm/music/Kings+of+Leon/Youth+&+Young+Manhood)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 > `1 ▶️` ∙ **[Fly](https://www.last.fm/music/Lettuce/Fly)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
-> `1 ▶️` ∙ **[The Ultimate Luther Vandross](https://www.last.fm/music/Luther+Vandross/The+Ultimate+Luther+Vandross)** - [Luther Vandross](https://www.last.fm/music/Luther+Vandross)<br/>
+> `1 ▶️` ∙ **[Crack the Skye](https://www.last.fm/music/Mastodon/Crack+the+Skye)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
+> `1 ▶️` ∙ **[Newen Plays Fela](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti/Newen+Plays+Fela)** - [Newen Afrobeat e Seun Kuti](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti)<br/>
+> `1 ▶️` ∙ **[Yes Yes Vindictive](https://www.last.fm/music/Operator+Please/Yes+Yes+Vindictive)** - [Operator Please](https://www.last.fm/music/Operator+Please)<br/>
+> `1 ▶️` ∙ **[Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age/Queens+of+the+Stone+Age)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
+> `1 ▶️` ∙ **[14:59](https://www.last.fm/music/Sugar+Ray/14:59)** - [Sugar Ray](https://www.last.fm/music/Sugar+Ray)<br/>
+> `1 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `1 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `1 ▶️` ∙ **[Live At the Forum](https://www.last.fm/music/The+Teskey+Brothers/Live+At+the+Forum)** - [The Teskey Brothers](https://www.last.fm/music/The+Teskey+Brothers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
