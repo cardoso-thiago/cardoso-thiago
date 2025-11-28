@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[A Real Mother For Ya](https://www.last.fm/music/Johnny+%27Guitar%27+Watson/A+Real+Mother+For+Ya)** - [Johnny 'Guitar' Watson](https://www.last.fm/music/Johnny+%27Guitar%27+Watson)<br/>
-> `1 ▶️` ∙ **[Fly](https://www.last.fm/music/Lettuce/Fly)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
-> `1 ▶️` ∙ **[Crack the Skye](https://www.last.fm/music/Mastodon/Crack+the+Skye)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
-> `1 ▶️` ∙ **[Newen Plays Fela](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti/Newen+Plays+Fela)** - [Newen Afrobeat e Seun Kuti](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti)<br/>
-> `1 ▶️` ∙ **[Yes Yes Vindictive](https://www.last.fm/music/Operator+Please/Yes+Yes+Vindictive)** - [Operator Please](https://www.last.fm/music/Operator+Please)<br/>
-> `1 ▶️` ∙ **[Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age/Queens+of+the+Stone+Age)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `1 ▶️` ∙ **[14:59](https://www.last.fm/music/Sugar+Ray/14:59)** - [Sugar Ray](https://www.last.fm/music/Sugar+Ray)<br/>
-> `1 ▶️` ∙ **[Mezmerize](https://www.last.fm/music/System+of+a+Down/Mezmerize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `1 ▶️` ∙ **[Live At the Forum](https://www.last.fm/music/The+Teskey+Brothers/Live+At+the+Forum)** - [The Teskey Brothers](https://www.last.fm/music/The+Teskey+Brothers)<br/>
+> `2 ▶️` ∙ **[Black Pumas](https://www.last.fm/music/Black+Pumas/Black+Pumas)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
+> `2 ▶️` ∙ **[Fly](https://www.last.fm/music/Lettuce/Fly)** - [Lettuce](https://www.last.fm/music/Lettuce)<br/>
+> `2 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `2 ▶️` ∙ **[Cowboy Bebop](https://www.last.fm/music/The+Seatbelts/Cowboy+Bebop)** - [The Seatbelts](https://www.last.fm/music/The+Seatbelts)<br/>
+> `1 ▶️` ∙ **[Sound & Color (Deluxe Edition)](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color+(Deluxe+Edition))** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `1 ▶️` ∙ **[2020-01-30: Roxian Theatre, McKees Rocks, PA](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/2020-01-30:+Roxian+Theatre,+McKees+Rocks,+PA)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
