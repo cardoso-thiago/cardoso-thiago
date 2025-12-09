@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `5 ▶️` ∙ **[Caress Your Soul](https://www.last.fm/music/Sticky+Fingers/Caress+Your+Soul)** - [Sticky Fingers](https://www.last.fm/music/Sticky+Fingers)<br/>
+> `4 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `3 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
+> `3 ▶️` ∙ **[Caress Your Soul](https://www.last.fm/music/Sticky+Fingers/Caress+Your+Soul)** - [Sticky Fingers](https://www.last.fm/music/Sticky+Fingers)<br/>
 > `2 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `2 ▶️` ∙ **[Best of Bowie](https://www.last.fm/music/David+Bowie/Best+of+Bowie)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
-> `2 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 > `2 ▶️` ∙ **[2020-01-30: Roxian Theatre, McKees Rocks, PA](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/2020-01-30:+Roxian+Theatre,+McKees+Rocks,+PA)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `2 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `2 ▶️` ∙ **[Standing in the Way of Control](https://www.last.fm/music/Gossip/Standing+in+the+Way+of+Control)** - [Gossip](https://www.last.fm/music/Gossip)<br/>
+> `2 ▶️` ∙ **[Ice, Death, Planets, Lungs, Mushrooms and Lava](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard/Ice,+Death,+Planets,+Lungs,+Mushrooms+and+Lava)** - [King Gizzard & The Lizard Wizard](https://www.last.fm/music/King+Gizzard+&+The+Lizard+Wizard)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
