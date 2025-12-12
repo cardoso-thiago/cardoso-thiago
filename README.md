@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `4 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `2 ▶️` ∙ **[2020-01-30: Roxian Theatre, McKees Rocks, PA](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/2020-01-30:+Roxian+Theatre,+McKees+Rocks,+PA)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `2 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Eurythmics/Greatest+Hits)** - [Eurythmics](https://www.last.fm/music/Eurythmics)<br/>
 > `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[ON THE SPOT](https://www.last.fm/music/Hot+8+Brass+Band/ON+THE+SPOT)** - [Hot 8 Brass Band](https://www.last.fm/music/Hot+8+Brass+Band)<br/>
 > `2 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `2 ▶️` ∙ **[The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers/The+Fearless+Flyers)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
-> `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Tokyo Calling](https://www.last.fm/music/ATARASHII+GAKKO!/Tokyo+Calling)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
+> `1 ▶️` ∙ **[The Ultimate Bee Gees](https://www.last.fm/music/Bee+Gees/The+Ultimate+Bee+Gees)** - [Bee Gees](https://www.last.fm/music/Bee+Gees)<br/>
+> `1 ▶️` ∙ **[Faster Than the Speed of Night](https://www.last.fm/music/Bonnie+Tyler/Faster+Than+the+Speed+of+Night)** - [Bonnie Tyler](https://www.last.fm/music/Bonnie+Tyler)<br/>
+> `1 ▶️` ∙ **[Civil Disobedients](https://www.last.fm/music/Capdown/Civil+Disobedients)** - [Capdown](https://www.last.fm/music/Capdown)<br/>
+> `1 ▶️` ∙ **[She's So Unusual](https://www.last.fm/music/Cyndi+Lauper/She%27s+So+Unusual)** - [Cyndi Lauper](https://www.last.fm/music/Cyndi+Lauper)<br/>
+> `1 ▶️` ∙ **[Human After All](https://www.last.fm/music/Daft+Punk/Human+After+All)** - [Daft Punk](https://www.last.fm/music/Daft+Punk)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
