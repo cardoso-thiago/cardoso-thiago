@@ -8,12 +8,12 @@
 > `3 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
 > `3 ▶️` ∙ **[Hypnotize](https://www.last.fm/music/System+of+a+Down/Hypnotize)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `3 ▶️` ∙ **[Rhythm, Chord & Melody](https://www.last.fm/music/The+Reign+Of+Kindo/Rhythm,+Chord+&+Melody)** - [The Reign Of Kindo](https://www.last.fm/music/The+Reign+Of+Kindo)<br/>
+> `2 ▶️` ∙ **[Black Pumas (Expanded Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Expanded+Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
 > `2 ▶️` ∙ **[HAIL SATIN](https://www.last.fm/music/Dee+Gees/HAIL+SATIN)** - [Dee Gees](https://www.last.fm/music/Dee+Gees)<br/>
-> `2 ▶️` ∙ **[In Your Brain](https://www.last.fm/music/Monophonics/In+Your+Brain)** - [Monophonics](https://www.last.fm/music/Monophonics)<br/>
-> `2 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
-> `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `2 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `2 ▶️` ∙ **[Blood](https://www.last.fm/music/Lianne+La+Havas/Blood)** - [Lianne La Havas](https://www.last.fm/music/Lianne+La+Havas)<br/>
+> `2 ▶️` ∙ **[Good Enough](https://www.last.fm/music/Original+High+Five/Good+Enough)** - [Original High Five](https://www.last.fm/music/Original+High+Five)<br/>
+> `2 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
