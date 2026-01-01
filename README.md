@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Saturday Night Fever (The Original Movie Soundtrack)](https://www.last.fm/music/Various+Artists/Saturday+Night+Fever+(The+Original+Movie+Soundtrack))** - [Various Artists](https://www.last.fm/music/Various+Artists)<br/>
-> `1 ▶️` ∙ **[AG! CALLING](https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
 > `1 ▶️` ∙ **[Megalithic Symphony](https://www.last.fm/music/AWOLNATION/Megalithic+Symphony)** - [AWOLNATION](https://www.last.fm/music/AWOLNATION)<br/>
 > `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Billy+Idol/Greatest+Hits)** - [Billy Idol](https://www.last.fm/music/Billy+Idol)<br/>
-> `1 ▶️` ∙ **[Black Pumas (Expanded Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Expanded+Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `1 ▶️` ∙ **[She's So Unusual](https://www.last.fm/music/Cyndi+Lauper/She%27s+So+Unusual)** - [Cyndi Lauper](https://www.last.fm/music/Cyndi+Lauper)<br/>
-> `1 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 > `1 ▶️` ∙ **[Concussion](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Concussion)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `1 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `1 ▶️` ∙ **[Unearthed](https://www.last.fm/music/Johnny+Cash/Unearthed)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
+> `1 ▶️` ∙ **[Only by the Night](https://www.last.fm/music/Kings+of+Leon/Only+by+the+Night)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
+> `1 ▶️` ∙ **[The Very Best of Marvin Gaye](https://www.last.fm/music/Marvin+Gaye/The+Very+Best+of+Marvin+Gaye)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
+> `1 ▶️` ∙ **[Are a Drag](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Are+a+Drag)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `1 ▶️` ∙ **[Take A Break](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Take+A+Break)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `1 ▶️` ∙ **[Every Day I Tell Myself I'm Going to Be a Better Person](https://www.last.fm/music/Misser/Every+Day+I+Tell+Myself+I%27m+Going+to+Be+a+Better+Person)** - [Misser](https://www.last.fm/music/Misser)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
