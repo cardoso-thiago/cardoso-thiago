@@ -4,16 +4,13 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Megalithic Symphony](https://www.last.fm/music/AWOLNATION/Megalithic+Symphony)** - [AWOLNATION](https://www.last.fm/music/AWOLNATION)<br/>
-> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Billy+Idol/Greatest+Hits)** - [Billy Idol](https://www.last.fm/music/Billy+Idol)<br/>
-> `1 ▶️` ∙ **[Concussion](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Concussion)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
 > `1 ▶️` ∙ **[Unearthed](https://www.last.fm/music/Johnny+Cash/Unearthed)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
-> `1 ▶️` ∙ **[Only by the Night](https://www.last.fm/music/Kings+of+Leon/Only+by+the+Night)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 > `1 ▶️` ∙ **[The Very Best of Marvin Gaye](https://www.last.fm/music/Marvin+Gaye/The+Very+Best+of+Marvin+Gaye)** - [Marvin Gaye](https://www.last.fm/music/Marvin+Gaye)<br/>
-> `1 ▶️` ∙ **[Are a Drag](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Are+a+Drag)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
-> `1 ▶️` ∙ **[Take A Break](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Take+A+Break)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
 > `1 ▶️` ∙ **[Every Day I Tell Myself I'm Going to Be a Better Person](https://www.last.fm/music/Misser/Every+Day+I+Tell+Myself+I%27m+Going+to+Be+a+Better+Person)** - [Misser](https://www.last.fm/music/Misser)<br/>
+> `1 ▶️` ∙ **[Nação Zumbi (2014)](https://www.last.fm/music/Na%C3%A7%C3%A3o+Zumbi/Na%C3%A7%C3%A3o+Zumbi+(2014))** - [Nação Zumbi](https://www.last.fm/music/Na%C3%A7%C3%A3o+Zumbi)<br/>
+> `1 ▶️` ∙ **[The Fury of the Aquabats](https://www.last.fm/music/The+Aquabats/The+Fury+of+the+Aquabats)** - [The Aquabats](https://www.last.fm/music/The+Aquabats)<br/>
+> `1 ▶️` ∙ **[The Moldy Peaches](https://www.last.fm/music/The+Moldy+Peaches/The+Moldy+Peaches)** - [The Moldy Peaches](https://www.last.fm/music/The+Moldy+Peaches)<br/>
+> `1 ▶️` ∙ **["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://www.last.fm/music/The+Taxpayers/%22God,+Forgive+These+Bastards%22+Songs+From+The+Forgotten+Life+of+Henry+Turner)** - [The Taxpayers](https://www.last.fm/music/The+Taxpayers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
