@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `2 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `2 ▶️` ∙ **[System Of A Down (Bonus Pack)](https://www.last.fm/music/System+of+a+Down/System+Of+A+Down+(Bonus+Pack))** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `2 ▶️` ∙ **[w h o k i l l](https://www.last.fm/music/Tune-Yards/w+h+o+k+i+l+l)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
-> `1 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `1 ▶️` ∙ **[None Shall Pass](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
+> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Number Ones](https://www.last.fm/music/Bee+Gees/Number+Ones)** - [Bee Gees](https://www.last.fm/music/Bee+Gees)<br/>
 > `1 ▶️` ∙ **[She's So Unusual](https://www.last.fm/music/Cyndi+Lauper/She%27s+So+Unusual)** - [Cyndi Lauper](https://www.last.fm/music/Cyndi+Lauper)<br/>
-> `1 ▶️` ∙ **[Concussion](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Concussion)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `1 ▶️` ∙ **[The Lion King: Original Motion Picture Soundtrack](https://www.last.fm/music/Elton+John,+Tim+Rice+&+Hans+Zimmer/The+Lion+King:+Original+Motion+Picture+Soundtrack)** - [Elton John, Tim Rice & Hans Zimmer](https://www.last.fm/music/Elton+John,+Tim+Rice+&+Hans+Zimmer)<br/>
-> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Eurythmics/Greatest+Hits)** - [Eurythmics](https://www.last.fm/music/Eurythmics)<br/>
-> `1 ▶️` ∙ **[English Rose](https://www.last.fm/music/Fleetwood+Mac/English+Rose)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `1 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[The Rise and Fall of Ziggy Stardust and the Spiders From Mars](https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
+> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
