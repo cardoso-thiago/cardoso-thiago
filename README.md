@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
-> `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `2 ▶️` ∙ **[System Of A Down (Bonus Pack)](https://www.last.fm/music/System+of+a+Down/System+Of+A+Down+(Bonus+Pack))** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `2 ▶️` ∙ **[w h o k i l l](https://www.last.fm/music/Tune-Yards/w+h+o+k+i+l+l)** - [Tune-Yards](https://www.last.fm/music/Tune-Yards)<br/>
+> `2 ▶️` ∙ **[The Rise and Fall of Ziggy Stardust and the Spiders From Mars](https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `1 ▶️` ∙ **[None Shall Pass](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
+> `1 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Number Ones](https://www.last.fm/music/Bee+Gees/Number+Ones)** - [Bee Gees](https://www.last.fm/music/Bee+Gees)<br/>
-> `1 ▶️` ∙ **[She's So Unusual](https://www.last.fm/music/Cyndi+Lauper/She%27s+So+Unusual)** - [Cyndi Lauper](https://www.last.fm/music/Cyndi+Lauper)<br/>
-> `1 ▶️` ∙ **[The Rise and Fall of Ziggy Stardust and the Spiders From Mars](https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
+> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[You Are Free](https://www.last.fm/music/Cat+Power/You+Are+Free)** - [Cat Power](https://www.last.fm/music/Cat+Power)<br/>
 > `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `1 ▶️` ∙ **[Only the Wild Ones](https://www.last.fm/music/Dispatch/Only+the+Wild+Ones)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `1 ▶️` ∙ **[Ocean Rain](https://www.last.fm/music/Echo+&+the+Bunnymen/Ocean+Rain)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
+> `1 ▶️` ∙ **[This Is It: The Best of Faith No More](https://www.last.fm/music/Faith+No+More/This+Is+It:+The+Best+of+Faith+No+More)** - [Faith No More](https://www.last.fm/music/Faith+No+More)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
