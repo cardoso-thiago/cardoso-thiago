@@ -5,6 +5,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Faster Than the Speed of Night](https://www.last.fm/music/Bonnie+Tyler/Faster+Than+the+Speed+of+Night)** - [Bonnie Tyler](https://www.last.fm/music/Bonnie+Tyler)<br/>
 > `1 ▶️` ∙ **[Fashion Nugget](https://www.last.fm/music/Cake/Fashion+Nugget)** - [Cake](https://www.last.fm/music/Cake)<br/>
 > `1 ▶️` ∙ **[You Are Free](https://www.last.fm/music/Cat+Power/You+Are+Free)** - [Cat Power](https://www.last.fm/music/Cat+Power)<br/>
 > `1 ▶️` ∙ **[Alone In a Crowd](https://www.last.fm/music/Catch+22/Alone+In+a+Crowd)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
@@ -13,7 +14,6 @@
 > `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 > `1 ▶️` ∙ **[Ocean Rain](https://www.last.fm/music/Echo+&+the+Bunnymen/Ocean+Rain)** - [Echo & the Bunnymen](https://www.last.fm/music/Echo+&+the+Bunnymen)<br/>
 > `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/KC+and+The+Sunshine+Band/Greatest+Hits)** - [KC and The Sunshine Band](https://www.last.fm/music/KC+and+The+Sunshine+Band)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
