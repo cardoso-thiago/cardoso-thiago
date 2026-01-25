@@ -12,8 +12,8 @@
 > `2 ▶️` ∙ **[The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers/The+Fearless+Flyers)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
 > `1 ▶️` ∙ **[Songs in A Minor](https://www.last.fm/music/Alicia+Keys/Songs+in+A+Minor)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 > `1 ▶️` ∙ **[Tokyo Calling](https://www.last.fm/music/ATARASHII+GAKKO!/Tokyo+Calling)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
+> `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Faster Than the Speed of Night](https://www.last.fm/music/Bonnie+Tyler/Faster+Than+the+Speed+of+Night)** - [Bonnie Tyler](https://www.last.fm/music/Bonnie+Tyler)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
