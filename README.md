@@ -5,6 +5,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `1 ▶️` ∙ **[Songs for the Deaf](https://www.last.fm/music/Queens+of+the+Stone+Age/Songs+for+the+Deaf)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
+> `1 ▶️` ∙ **[...And the Battle Begun](https://www.last.fm/music/Rx+Bandits/...And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `1 ▶️` ∙ **[The Hot Rock](https://www.last.fm/music/Sleater-Kinney/The+Hot+Rock)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
 > `1 ▶️` ∙ **[To Risk So Much for One Damn Meal](https://www.last.fm/music/The+Taxpayers/To+Risk+So+Much+for+One+Damn+Meal)** - [The Taxpayers](https://www.last.fm/music/The+Taxpayers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
