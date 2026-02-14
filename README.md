@@ -5,6 +5,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `1 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[The Score (Expanded Edition)](https://www.last.fm/music/Fugees/The+Score+(Expanded+Edition))** - [Fugees](https://www.last.fm/music/Fugees)<br/>
+> `1 ▶️` ∙ **[Generation Terrorists](https://www.last.fm/music/Manic+Street+Preachers/Generation+Terrorists)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
+> `1 ▶️` ∙ **[Newen Plays Fela](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti/Newen+Plays+Fela)** - [Newen Afrobeat e Seun Kuti](https://www.last.fm/music/Newen+Afrobeat+e+Seun+Kuti)<br/>
 > `1 ▶️` ∙ **[Yes Yes Vindictive](https://www.last.fm/music/Operator+Please/Yes+Yes+Vindictive)** - [Operator Please](https://www.last.fm/music/Operator+Please)<br/>
 > `1 ▶️` ∙ **[I Say a Little Prayer](https://www.last.fm/music/Scary+Pockets/I+Say+a+Little+Prayer)** - [Scary Pockets](https://www.last.fm/music/Scary+Pockets)<br/>
 <!--END_LASTFM_ALBUMS-->
