@@ -5,6 +5,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[Youth & Young Manhood](https://www.last.fm/music/Kings+of+Leon/Youth+&+Young+Manhood)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
+> `2 ▶️` ∙ **[Pequeno Cidadão](https://www.last.fm/music/Pequeno+Cidad%C3%A3o,+Taciana+Barros+e+Edgard+Scandurra/Pequeno+Cidad%C3%A3o)** - [Pequeno Cidadão, Taciana Barros e Edgard Scandurra](https://www.last.fm/music/Pequeno+Cidad%C3%A3o,+Taciana+Barros+e+Edgard+Scandurra)<br/>
 > `2 ▶️` ∙ **[System Of A Down (Bonus Pack)](https://www.last.fm/music/System+of+a+Down/System+Of+A+Down+(Bonus+Pack))** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
 > `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
@@ -13,7 +14,6 @@
 > `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
 > `1 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `1 ▶️` ∙ **[Blak and Blu](https://www.last.fm/music/Gary+Clark+Jr./Blak+and+Blu)** - [Gary Clark Jr.](https://www.last.fm/music/Gary+Clark+Jr.)<br/>
-> `1 ▶️` ∙ **[Aha Shake Heartbreak](https://www.last.fm/music/Kings+of+Leon/Aha+Shake+Heartbreak)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
