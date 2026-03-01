@@ -5,7 +5,6 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
-> `2 ▶️` ∙ **[Pequeno Cidadão](https://www.last.fm/music/Pequeno+Cidad%C3%A3o,+Taciana+Barros+e+Edgard+Scandurra/Pequeno+Cidad%C3%A3o)** - [Pequeno Cidadão, Taciana Barros e Edgard Scandurra](https://www.last.fm/music/Pequeno+Cidad%C3%A3o,+Taciana+Barros+e+Edgard+Scandurra)<br/>
 > `1 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Black Pumas (Expanded Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Expanded+Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
@@ -14,6 +13,7 @@
 > `1 ▶️` ∙ **[Espiral de Ilusão](https://www.last.fm/music/Criolo/Espiral+de+Ilus%C3%A3o)** - [Criolo](https://www.last.fm/music/Criolo)<br/>
 > `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `1 ▶️` ∙ **[Getting Killed](https://www.last.fm/music/Geese/Getting+Killed)** - [Geese](https://www.last.fm/music/Geese)<br/>
+> `1 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
