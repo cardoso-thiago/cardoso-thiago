@@ -8,11 +8,11 @@
 > `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[Number Ones](https://www.last.fm/music/Bee+Gees/Number+Ones)** - [Bee Gees](https://www.last.fm/music/Bee+Gees)<br/>
 > `2 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
-> `2 ▶️` ∙ **[Deepest Purple: The Very Best of Deep Purple](https://www.last.fm/music/Deep+Purple/Deepest+Purple:+The+Very+Best+of+Deep+Purple)** - [Deep Purple](https://www.last.fm/music/Deep+Purple)<br/>
 > `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Post](https://www.last.fm/music/Bj%C3%B6rk/Post)** - [Björk](https://www.last.fm/music/Bj%C3%B6rk)<br/>
 > `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `1 ▶️` ∙ **[Summertime Magic](https://www.last.fm/music/Childish+Gambino/Summertime+Magic)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[Deepest Purple: The Very Best of Deep Purple](https://www.last.fm/music/Deep+Purple/Deepest+Purple:+The+Very+Best+of+Deep+Purple)** - [Deep Purple](https://www.last.fm/music/Deep+Purple)<br/>
 > `1 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 <!--END_LASTFM_ALBUMS-->
 
