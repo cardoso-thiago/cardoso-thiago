@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[Number Ones](https://www.last.fm/music/Bee+Gees/Number+Ones)** - [Bee Gees](https://www.last.fm/music/Bee+Gees)<br/>
+> `2 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `1 ▶️` ∙ **[Up-Lifted EP](https://www.last.fm/music/Fortunate+Youth/Up-Lifted+EP)** - [Fortunate Youth](https://www.last.fm/music/Fortunate+Youth)<br/>
 > `1 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `1 ▶️` ∙ **[O Que Você Quer Saber de Verdade](https://www.last.fm/music/Marisa+Monte/O+Que+Voc%C3%AA+Quer+Saber+de+Verdade)** - [Marisa Monte](https://www.last.fm/music/Marisa+Monte)<br/>
 > `1 ▶️` ∙ **[Once More 'Round the Sun](https://www.last.fm/music/Mastodon/Once+More+%27Round+the+Sun)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 > `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Queen/Greatest+Hits)** - [Queen](https://www.last.fm/music/Queen)<br/>
 > `1 ▶️` ∙ **[Era Vulgaris](https://www.last.fm/music/Queens+of+the+Stone+Age/Era+Vulgaris)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `1 ▶️` ∙ **[Inside In Inside Out](https://www.last.fm/music/The+Kooks/Inside+In+Inside+Out)** - [The Kooks](https://www.last.fm/music/The+Kooks)<br/>
-> `1 ▶️` ∙ **[II: Power of Moonlite](https://www.last.fm/music/Tiger+Army/II:+Power+of+Moonlite)** - [Tiger Army](https://www.last.fm/music/Tiger+Army)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
