@@ -6,9 +6,6 @@
 
 > `2 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `1 ▶️` ∙ **[Once More 'Round the Sun](https://www.last.fm/music/Mastodon/Once+More+%27Round+the+Sun)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
-> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Queen/Greatest+Hits)** - [Queen](https://www.last.fm/music/Queen)<br/>
-> `1 ▶️` ∙ **[II: Power of Moonlite](https://www.last.fm/music/Tiger+Army/II:+Power+of+Moonlite)** - [Tiger Army](https://www.last.fm/music/Tiger+Army)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
