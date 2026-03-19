@@ -1,5 +1,5 @@
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Red+Fang/Murder+the+Mountains"><img src="https://lastfm.freetls.fastly.net/i/u/64s/223fc42ec8c84592ac7a01caea09c098.png" title="Red Fang - Murder the Mountains"></a> <a href="https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac"><img src="https://lastfm.freetls.fastly.net/i/u/64s/97e59a52bf1c49ceb28cfa4d763e8520.png" title="Fleetwood Mac - Fleetwood Mac"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Red+Fang/Murder+the+Mountains"><img src="https://lastfm.freetls.fastly.net/i/u/64s/223fc42ec8c84592ac7a01caea09c098.png" title="Red Fang - Murder the Mountains"></a> <a href="https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac"><img src="https://lastfm.freetls.fastly.net/i/u/64s/97e59a52bf1c49ceb28cfa4d763e8520.png" title="Fleetwood Mac - Fleetwood Mac"></a> <a href="https://www.last.fm/music/Fleetwood+Mac/Rumours"><img src="https://lastfm.freetls.fastly.net/i/u/64s/349d64820e124b77cb5275ab03042693.png" title="Fleetwood Mac - Rumours"></a> </p>
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
