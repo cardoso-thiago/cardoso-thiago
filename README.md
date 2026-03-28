@@ -4,8 +4,8 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `6 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `2 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `4 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `1 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
