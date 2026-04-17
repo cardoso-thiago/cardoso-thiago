@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `2 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `2 ▶️` ∙ **[In Your Brain](https://www.last.fm/music/Monophonics/In+Your+Brain)** - [Monophonics](https://www.last.fm/music/Monophonics)<br/>
-> `2 ▶️` ∙ **[...And the Battle Begun](https://www.last.fm/music/Rx+Bandits/...And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `2 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `1 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `2 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `1 ▶️` ∙ **[The Element of Freedom](https://www.last.fm/music/Alicia+Keys/The+Element+of+Freedom)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
+> `1 ▶️` ∙ **[Acrobatic Tenement](https://www.last.fm/music/At+the+Drive-In/Acrobatic+Tenement)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[In the Time of the Great Remembering (Deluxe Edition)](https://www.last.fm/music/Ben+Caplan/In+the+Time+of+the+Great+Remembering+(Deluxe+Edition))** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `1 ▶️` ∙ **[Baby I'm In Love](https://www.last.fm/music/Ben+Jamin/Baby+I%27m+In+Love)** - [Ben Jamin](https://www.last.fm/music/Ben+Jamin)<br/>
+> `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[Lithonia](https://www.last.fm/music/Childish+Gambino/Lithonia)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
+> `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
