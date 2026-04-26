@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `3 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `3 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `3 ▶️` ∙ **[Undertow](https://www.last.fm/music/Tool/Undertow)** - [Tool](https://www.last.fm/music/Tool)<br/>
+> `2 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
 > `2 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 > `2 ▶️` ∙ **[Let's Go Back](https://www.last.fm/music/Jungle/Let%27s+Go+Back)** - [Jungle](https://www.last.fm/music/Jungle)<br/>
+> `2 ▶️` ∙ **[Everything Must Go (10th Anniversary Edition)](https://www.last.fm/music/Manic+Street+Preachers/Everything+Must+Go+(10th+Anniversary+Edition))** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
 > `2 ▶️` ∙ **[Love Their Country](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Love+Their+Country)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
 > `2 ▶️` ∙ **[Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age/Queens+of+the+Stone+Age)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
-> `2 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `2 ▶️` ∙ **[Weezer (Teal Album)](https://www.last.fm/music/Weezer/Weezer+(Teal+Album))** - [Weezer](https://www.last.fm/music/Weezer)<br/>
-> `1 ▶️` ∙ **[Songs in A Minor](https://www.last.fm/music/Alicia+Keys/Songs+in+A+Minor)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
-> `1 ▶️` ∙ **[2000-12-07: The Electric Ballroom, London, UK](https://www.last.fm/music/At+the+Drive-In/2000-12-07:+The+Electric+Ballroom,+London,+UK)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `2 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
