@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
-> `2 ▶️` ∙ **[Emperor of Sand](https://www.last.fm/music/Mastodon/Emperor+of+Sand)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
-> `2 ▶️` ∙ **[Red Fang](https://www.last.fm/music/Red+Fang/Red+Fang)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
-> `2 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
-> `2 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/The+Who/Greatest+Hits)** - [The Who](https://www.last.fm/music/The+Who)<br/>
-> `2 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `1 ▶️` ∙ **[Songs in A Minor](https://www.last.fm/music/Alicia+Keys/Songs+in+A+Minor)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 > `1 ▶️` ∙ **[The Element of Freedom](https://www.last.fm/music/Alicia+Keys/The+Element+of+Freedom)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 > `1 ▶️` ∙ **[O seguinte é esse](https://www.last.fm/music/Barbatuques/O+seguinte+%C3%A9+esse)** - [Barbatuques](https://www.last.fm/music/Barbatuques)<br/>
-> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[LIFTED Or The Story Is In The Soil, Keep Your Ear To The Ground](https://www.last.fm/music/Bright+Eyes/LIFTED+Or+The+Story+Is+In+The+Soil,+Keep+Your+Ear+To+The+Ground)** - [Bright Eyes](https://www.last.fm/music/Bright+Eyes)<br/>
+> `1 ▶️` ∙ **[Platinum](https://www.last.fm/music/Creedence+Clearwater+Revival/Platinum)** - [Creedence Clearwater Revival](https://www.last.fm/music/Creedence+Clearwater+Revival)<br/>
+> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Eurythmics/Greatest+Hits)** - [Eurythmics](https://www.last.fm/music/Eurythmics)<br/>
+> `1 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
+> `1 ▶️` ∙ **[The Colour and the Shape](https://www.last.fm/music/Foo+Fighters/The+Colour+and+the+Shape)** - [Foo Fighters](https://www.last.fm/music/Foo+Fighters)<br/>
+> `1 ▶️` ∙ **[Getting Killed](https://www.last.fm/music/Geese/Getting+Killed)** - [Geese](https://www.last.fm/music/Geese)<br/>
+> `1 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Joe+Cocker/Greatest+Hits)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
+> `1 ▶️` ∙ **[The Legend of Johnny Cash](https://www.last.fm/music/Johnny+Cash/The+Legend+of+Johnny+Cash)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
