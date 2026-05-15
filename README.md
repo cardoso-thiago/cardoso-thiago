@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Joe+Cocker/Greatest+Hits)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
-> `2 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `2 ▶️` ∙ **[99 Songs of revolution](https://www.last.fm/music/Streetlight+Manifesto/99+Songs+of+revolution)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `2 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
-> `1 ▶️` ∙ **[The Element of Freedom](https://www.last.fm/music/Alicia+Keys/The+Element+of+Freedom)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
+> `2 ▶️` ∙ **[Capitol Cuts](https://www.last.fm/music/Black+Pumas/Capitol+Cuts)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
+> `2 ▶️` ∙ **[...And the Battle Begun](https://www.last.fm/music/Rx+Bandits/...And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `2 ▶️` ∙ **[Tailwinds](https://www.last.fm/music/The+Fearless+Flyers/Tailwinds)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
+> `1 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
 > `1 ▶️` ∙ **[Definitive Soul: Aretha Franklin](https://www.last.fm/music/Aretha+Franklin/Definitive+Soul:+Aretha+Franklin)** - [Aretha Franklin](https://www.last.fm/music/Aretha+Franklin)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[O seguinte é esse](https://www.last.fm/music/Barbatuques/O+seguinte+%C3%A9+esse)** - [Barbatuques](https://www.last.fm/music/Barbatuques)<br/>
-> `1 ▶️` ∙ **[Capitol Cuts](https://www.last.fm/music/Black+Pumas/Capitol+Cuts)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `1 ▶️` ∙ **[LIFTED Or The Story Is In The Soil, Keep Your Ear To The Ground](https://www.last.fm/music/Bright+Eyes/LIFTED+Or+The+Story+Is+In+The+Soil,+Keep+Your+Ear+To+The+Ground)** - [Bright Eyes](https://www.last.fm/music/Bright+Eyes)<br/>
+> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Fashion Nugget](https://www.last.fm/music/Cake/Fashion+Nugget)** - [Cake](https://www.last.fm/music/Cake)<br/>
+> `1 ▶️` ∙ **[Civil Disobedients](https://www.last.fm/music/Capdown/Civil+Disobedients)** - [Capdown](https://www.last.fm/music/Capdown)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
