@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `2 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `2 ▶️` ∙ **[American IV: The Man Comes Around](https://www.last.fm/music/Johnny+Cash/American+IV:+The+Man+Comes+Around)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
-> `1 ▶️` ∙ **[None Shall Pass - Single](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass+-+Single)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
-> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[Acrobatic Tenement](https://www.last.fm/music/At+the+Drive-In/Acrobatic+Tenement)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[AG! CALLING](https://www.last.fm/music/ATARASHII+GAKKO!/AG!+CALLING)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
-> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Post](https://www.last.fm/music/Bj%C3%B6rk/Post)** - [Björk](https://www.last.fm/music/Bj%C3%B6rk)<br/>
+> `3 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `2 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `2 ▶️` ∙ **[Double Hits Collection Part One](https://www.last.fm/music/Elton+John/Double+Hits+Collection+Part+One)** - [Elton John](https://www.last.fm/music/Elton+John)<br/>
+> `2 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Joe+Cocker/Greatest+Hits)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
+> `2 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
+> `2 ▶️` ∙ **[Rhythm, Chord & Melody](https://www.last.fm/music/The+Reign+Of+Kindo/Rhythm,+Chord+&+Melody)** - [The Reign Of Kindo](https://www.last.fm/music/The+Reign+Of+Kindo)<br/>
+> `2 ▶️` ∙ **[Cowboy Bebop](https://www.last.fm/music/The+Seatbelts/Cowboy+Bebop)** - [The Seatbelts](https://www.last.fm/music/The+Seatbelts)<br/>
+> `2 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
+> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
