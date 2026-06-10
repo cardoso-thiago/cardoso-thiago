@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `2 ▶️` ∙ **[Every Day I Tell Myself I'm Going to Be a Better Person](https://www.last.fm/music/Misser/Every+Day+I+Tell+Myself+I%27m+Going+to+Be+a+Better+Person)** - [Misser](https://www.last.fm/music/Misser)<br/>
 > `1 ▶️` ∙ **[Holiday](https://www.last.fm/music/America/Holiday)** - [America](https://www.last.fm/music/America)<br/>
-> `1 ▶️` ∙ **[2000-12-07: The Electric Ballroom, London, UK](https://www.last.fm/music/At+the+Drive-In/2000-12-07:+The+Electric+Ballroom,+London,+UK)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Uncommon Good](https://www.last.fm/music/Busty+and+the+Bass/Uncommon+Good)** - [Busty and the Bass](https://www.last.fm/music/Busty+and+the+Bass)<br/>
 > `1 ▶️` ∙ **[You Are Free](https://www.last.fm/music/Cat+Power/You+Are+Free)** - [Cat Power](https://www.last.fm/music/Cat+Power)<br/>
-> `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `1 ▶️` ∙ **[So Fresh: The Hits Of Summer 2019 + The Best Of 2018](https://www.last.fm/music/Childish+Gambino/So+Fresh:+The+Hits+Of+Summer+2019+%252B+The+Best+Of+2018)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
-> `1 ▶️` ∙ **[Double Hits Collection Part One](https://www.last.fm/music/Elton+John/Double+Hits+Collection+Part+One)** - [Elton John](https://www.last.fm/music/Elton+John)<br/>
+> `1 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `1 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `1 ▶️` ∙ **[This Is My Truth Tell Me Yours](https://www.last.fm/music/Manic+Street+Preachers/This+Is+My+Truth+Tell+Me+Yours)** - [Manic Street Preachers](https://www.last.fm/music/Manic+Street+Preachers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
