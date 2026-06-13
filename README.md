@@ -4,11 +4,7 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Holiday](https://www.last.fm/music/America/Holiday)** - [America](https://www.last.fm/music/America)<br/>
-> `1 ▶️` ∙ **[So Fresh: The Hits Of Summer 2019 + The Best Of 2018](https://www.last.fm/music/Childish+Gambino/So+Fresh:+The+Hits+Of+Summer+2019+%252B+The+Best+Of+2018)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `1 ▶️` ∙ **[Bang Bang](https://www.last.fm/music/Dispatch/Bang+Bang)** - [Dispatch](https://www.last.fm/music/Dispatch)<br/>
-> `1 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `1 ▶️` ∙ **[The First Family of Soul: The Best of The Five Stairsteps](https://www.last.fm/music/The+Five+Stairsteps/The+First+Family+of+Soul:+The+Best+of+The+Five+Stairsteps)** - [The Five Stairsteps](https://www.last.fm/music/The+Five+Stairsteps)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
