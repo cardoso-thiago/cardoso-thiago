@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `5 ▶️` ∙ **[Pennybridge Pioneers](https://www.last.fm/music/Millencolin/Pennybridge+Pioneers)** - [Millencolin](https://www.last.fm/music/Millencolin)<br/>
-> `3 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[Blur: The Best Of](https://www.last.fm/music/Blur/Blur:+The+Best+Of)** - [Blur](https://www.last.fm/music/Blur)<br/>
-> `2 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `4 ▶️` ∙ **[Pennybridge Pioneers](https://www.last.fm/music/Millencolin/Pennybridge+Pioneers)** - [Millencolin](https://www.last.fm/music/Millencolin)<br/>
+> `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[Ruin Jonny's Bar Mitzvah](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Ruin+Jonny%27s+Bar+Mitzvah)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `2 ▶️` ∙ **[Caress Your Soul](https://www.last.fm/music/Sticky+Fingers/Caress+Your+Soul)** - [Sticky Fingers](https://www.last.fm/music/Sticky+Fingers)<br/>
 > `2 ▶️` ∙ **[A New Morning, Changing Weather](https://www.last.fm/music/The+(International)+Noise+Conspiracy/A+New+Morning,+Changing+Weather)** - [The (International) Noise Conspiracy](https://www.last.fm/music/The+(International)+Noise+Conspiracy)<br/>
 > `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[The Best of America](https://www.last.fm/music/America/The+Best+of+America)** - [America](https://www.last.fm/music/America)<br/>
 > `1 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `1 ▶️` ∙ **[2000-12-07: The Electric Ballroom, London, UK](https://www.last.fm/music/At+the+Drive-In/2000-12-07:+The+Electric+Ballroom,+London,+UK)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
