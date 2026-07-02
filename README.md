@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `4 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `3 ▶️` ∙ **[Caress Your Soul](https://www.last.fm/music/Sticky+Fingers/Caress+Your+Soul)** - [Sticky Fingers](https://www.last.fm/music/Sticky+Fingers)<br/>
-> `2 ▶️` ∙ **[The Shape of Punk to Come](https://www.last.fm/music/Refused/The+Shape+of+Punk+to+Come)** - [Refused](https://www.last.fm/music/Refused)<br/>
 > `2 ▶️` ∙ **[…And the Battle Begun](https://www.last.fm/music/Rx+Bandits/%E2%80%A6And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `2 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
+> `2 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
 > `1 ▶️` ∙ **[The Gates](https://www.last.fm/music/Aesop+Rock/The+Gates)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[Definitive Soul: Aretha Franklin](https://www.last.fm/music/Aretha+Franklin/Definitive+Soul:+Aretha+Franklin)** - [Aretha Franklin](https://www.last.fm/music/Aretha+Franklin)<br/>
-> `1 ▶️` ∙ **[2000-12-07: The Electric Ballroom, London, UK](https://www.last.fm/music/At+the+Drive-In/2000-12-07:+The+Electric+Ballroom,+London,+UK)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `1 ▶️` ∙ **[Birds With Broken Wings](https://www.last.fm/music/Ben+Caplan/Birds+With+Broken+Wings)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
+> `1 ▶️` ∙ **[BIxiga 70](https://www.last.fm/music/Bixiga+70/BIxiga+70)** - [Bixiga 70](https://www.last.fm/music/Bixiga+70)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
