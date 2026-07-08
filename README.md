@@ -6,6 +6,7 @@
 
 > `2 ▶️` ∙ **[January Never Dies](https://www.last.fm/music/Balming+Tiger/January+Never+Dies)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `2 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
+> `2 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `2 ▶️` ∙ **[…And the Battle Begun](https://www.last.fm/music/Rx+Bandits/%E2%80%A6And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 > `1 ▶️` ∙ **[None Shall Pass - Single](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass+-+Single)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[Chanka Chanka](https://www.last.fm/music/ATARASHII+GAKKO!/Chanka+Chanka)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
@@ -13,7 +14,6 @@
 > `1 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Prolonging the Magic](https://www.last.fm/music/Cake/Prolonging+the+Magic)** - [Cake](https://www.last.fm/music/Cake)<br/>
-> `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days/Rogue+Taxidermy)** - [Days](https://www.last.fm/music/Days)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
