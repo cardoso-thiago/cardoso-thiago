@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[January Never Dies](https://www.last.fm/music/Balming+Tiger/January+Never+Dies)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `2 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `2 ▶️` ∙ **[Murder the Mountains](https://www.last.fm/music/Red+Fang/Murder+the+Mountains)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `2 ▶️` ∙ **[…And the Battle Begun](https://www.last.fm/music/Rx+Bandits/%E2%80%A6And+the+Battle+Begun)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `1 ▶️` ∙ **[None Shall Pass - Single](https://www.last.fm/music/Aesop+Rock/None+Shall+Pass+-+Single)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[Chanka Chanka](https://www.last.fm/music/ATARASHII+GAKKO!/Chanka+Chanka)** - [ATARASHII GAKKO!](https://www.last.fm/music/ATARASHII+GAKKO!)<br/>
+> `1 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `1 ▶️` ∙ **[Wash Away](https://www.last.fm/music/Balming+Tiger/Wash+Away)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days/Rogue+Taxidermy)** - [Days](https://www.last.fm/music/Days)<br/>
-> `1 ▶️` ∙ **[Hawaiian Roller Coaster Ride (From "Lilo & Stitch")](https://www.last.fm/music/Disney,+Iam+Tongi+e+Kamehameha+Schools+Children%27s+Chorus/Hawaiian+Roller+Coaster+Ride+(From+%22Lilo+&+Stitch%22))** - [Disney, Iam Tongi e Kamehameha Schools Children's Chorus](https://www.last.fm/music/Disney,+Iam+Tongi+e+Kamehameha+Schools+Children%27s+Chorus)<br/>
+> `1 ▶️` ∙ **[Übermensch](https://www.last.fm/music/G-DRAGON/%C3%9Cbermensch)** - [G-DRAGON](https://www.last.fm/music/G-DRAGON)<br/>
+> `1 ▶️` ∙ **[Standing in the Way of Control](https://www.last.fm/music/Gossip/Standing+in+the+Way+of+Control)** - [Gossip](https://www.last.fm/music/Gossip)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
