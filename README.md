@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `3 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `2 ▶️` ∙ **[SEXY NUKIM](https://www.last.fm/music/Balming+Tiger/SEXY+NUKIM)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
+> `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `2 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `2 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `2 ▶️` ∙ **[In Your Brain](https://www.last.fm/music/Monophonics/In+Your+Brain)** - [Monophonics](https://www.last.fm/music/Monophonics)<br/>
-> `1 ▶️` ∙ **[America](https://www.last.fm/music/America/America)** - [America](https://www.last.fm/music/America)<br/>
-> `1 ▶️` ∙ **[Holiday](https://www.last.fm/music/America/Holiday)** - [America](https://www.last.fm/music/America)<br/>
-> `1 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `1 ▶️` ∙ **[Wash Away](https://www.last.fm/music/Balming+Tiger/Wash+Away)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `1 ▶️` ∙ **[SEXY NUKIM](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn,+&+Mudd+the+student/SEXY+NUKIM)** - [Balming Tiger, Omega Sapien, bj wnjn, & Mudd the student](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn,+&+Mudd+the+student)<br/>
-> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[In The Time Of The Great Remembering](https://www.last.fm/music/Ben+Caplan/In+The+Time+Of+The+Great+Remembering)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
+> `2 ▶️` ∙ **[Songs for the Deaf](https://www.last.fm/music/Queens+of+the+Stone+Age/Songs+for+the+Deaf)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
+> `2 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
+> `2 ▶️` ∙ **[Half Mile Harvest](https://www.last.fm/music/The+Teskey+Brothers/Half+Mile+Harvest)** - [The Teskey Brothers](https://www.last.fm/music/The+Teskey+Brothers)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
