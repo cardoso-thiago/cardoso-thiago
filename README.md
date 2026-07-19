@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `12 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `3 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
+> `4 ▶️` ∙ **[Sunday Afternoon](https://www.last.fm/music/True+Loves/Sunday+Afternoon)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `3 ▶️` ∙ **[섹시느낌](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn+e+Mudd+the+student/%EC%84%B9%EC%8B%9C%EB%8A%90%EB%82%8C)** - [Balming Tiger, Omega Sapien, bj wnjn e Mudd the student](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn+e+Mudd+the+student)<br/>
 > `3 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `2 ▶️` ∙ **[January Never Dies](https://www.last.fm/music/Balming+Tiger/January+Never+Dies)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `2 ▶️` ∙ **[SEXY NUKIM](https://www.last.fm/music/Balming+Tiger/SEXY+NUKIM)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `2 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[3005](https://www.last.fm/music/Childish+Gambino/3005)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
-> `2 ▶️` ∙ **[In Your Brain](https://www.last.fm/music/Monophonics/In+Your+Brain)** - [Monophonics](https://www.last.fm/music/Monophonics)<br/>
+> `2 ▶️` ∙ **[Songs Around the World](https://www.last.fm/music/Playing+For+Change/Songs+Around+the+World)** - [Playing For Change](https://www.last.fm/music/Playing+For+Change)<br/>
+> `2 ▶️` ∙ **[Songs for the Deaf](https://www.last.fm/music/Queens+of+the+Stone+Age/Songs+for+the+Deaf)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
