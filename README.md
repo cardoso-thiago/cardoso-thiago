@@ -13,7 +13,7 @@
 > `2 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[3005](https://www.last.fm/music/Childish+Gambino/3005)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `2 ▶️` ∙ **[Songs Around the World](https://www.last.fm/music/Playing+For+Change/Songs+Around+the+World)** - [Playing For Change](https://www.last.fm/music/Playing+For+Change)<br/>
-> `2 ▶️` ∙ **[Songs for the Deaf](https://www.last.fm/music/Queens+of+the+Stone+Age/Songs+for+the+Deaf)** - [Queens of the Stone Age](https://www.last.fm/music/Queens+of+the+Stone+Age)<br/>
+> `2 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
