@@ -6,14 +6,14 @@
 
 > `12 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `4 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `4 ▶️` ∙ **[TAB 4](https://www.last.fm/music/The+Atomic+Bitchwax/TAB+4)** - [The Atomic Bitchwax](https://www.last.fm/music/The+Atomic+Bitchwax)<br/>
 > `4 ▶️` ∙ **[Sunday Afternoon](https://www.last.fm/music/True+Loves/Sunday+Afternoon)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `3 ▶️` ∙ **[섹시느낌](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn+e+Mudd+the+student/%EC%84%B9%EC%8B%9C%EB%8A%90%EB%82%8C)** - [Balming Tiger, Omega Sapien, bj wnjn e Mudd the student](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn+e+Mudd+the+student)<br/>
+> `3 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `2 ▶️` ∙ **[January Never Dies](https://www.last.fm/music/Balming+Tiger/January+Never+Dies)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `2 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `2 ▶️` ∙ **[3005](https://www.last.fm/music/Childish+Gambino/3005)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `2 ▶️` ∙ **[Capitol Cuts](https://www.last.fm/music/Black+Pumas/Capitol+Cuts)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
+> `2 ▶️` ∙ **[Best of Bowie](https://www.last.fm/music/David+Bowie/Best+of+Bowie)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `2 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/Joe+Cocker/Greatest+Hits)** - [Joe Cocker](https://www.last.fm/music/Joe+Cocker)<br/>
-> `2 ▶️` ∙ **[Songs Around the World](https://www.last.fm/music/Playing+For+Change/Songs+Around+the+World)** - [Playing For Change](https://www.last.fm/music/Playing+For+Change)<br/>
-> `2 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
