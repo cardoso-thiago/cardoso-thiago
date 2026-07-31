@@ -6,14 +6,14 @@
 
 > `2 ▶️` ∙ **[January Never Dies](https://www.last.fm/music/Balming+Tiger/January+Never+Dies)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `2 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[Good Enough](https://www.last.fm/music/Original+High+Five/Good+Enough)** - [Original High Five](https://www.last.fm/music/Original+High+Five)<br/>
-> `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `2 ▶️` ∙ **[Mandala](https://www.last.fm/music/Rx+Bandits/Mandala)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `2 ▶️` ∙ **[The First Family of Soul: The Best of The Five Stairsteps](https://www.last.fm/music/The+Five+Stairsteps/The+First+Family+of+Soul:+The+Best+of+The+Five+Stairsteps)** - [The Five Stairsteps](https://www.last.fm/music/The+Five+Stairsteps)<br/>
 > `2 ▶️` ∙ **[hill climber](https://www.last.fm/music/Vulfpeck/hill+climber)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `1 ▶️` ∙ **[The Gates](https://www.last.fm/music/Aesop+Rock/The+Gates)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `1 ▶️` ∙ **[History: America's Greatest Hits](https://www.last.fm/music/America/History:+America%27s+Greatest+Hits)** - [America](https://www.last.fm/music/America)<br/>
+> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
+> `1 ▶️` ∙ **[Gongbu](https://www.last.fm/music/Balming+Tiger/Gongbu)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
+> `1 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
+> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `1 ▶️` ∙ **[Baby I'm In Love](https://www.last.fm/music/Ben+Jamin/Baby+I%27m+In+Love)** - [Ben Jamin](https://www.last.fm/music/Ben+Jamin)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
