@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `2 ▶️` ∙ **[Greatest Hits](https://www.last.fm/music/System+of+a+Down/Greatest+Hits)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
-> `2 ▶️` ∙ **[hill climber](https://www.last.fm/music/Vulfpeck/hill+climber)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
-> `1 ▶️` ∙ **[The Gates](https://www.last.fm/music/Aesop+Rock/The+Gates)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
-> `1 ▶️` ∙ **[History: America's Greatest Hits](https://www.last.fm/music/America/History:+America%27s+Greatest+Hits)** - [America](https://www.last.fm/music/America)<br/>
+> `2 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `2 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
+> `2 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
 > `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Post](https://www.last.fm/music/Bj%C3%B6rk/Post)** - [Björk](https://www.last.fm/music/Bj%C3%B6rk)<br/>
-> `1 ▶️` ∙ **[Capitol Cuts](https://www.last.fm/music/Black+Pumas/Capitol+Cuts)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `1 ▶️` ∙ **["Awaken, My Love!"](https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
+> `1 ▶️` ∙ **[Deliverance](https://www.last.fm/music/Corrosion+of+Conformity/Deliverance)** - [Corrosion of Conformity](https://www.last.fm/music/Corrosion+of+Conformity)<br/>
+> `1 ▶️` ∙ **[She's So Unusual](https://www.last.fm/music/Cyndi+Lauper/She%27s+So+Unusual)** - [Cyndi Lauper](https://www.last.fm/music/Cyndi+Lauper)<br/>
+> `1 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
 > `1 ▶️` ∙ **[Cold As Weiss](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Cold+As+Weiss)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
+> `1 ▶️` ∙ **[Concussion](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Concussion)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
