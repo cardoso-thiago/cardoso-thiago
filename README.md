@@ -6,14 +6,14 @@
 
 > `3 ▶️` ∙ **[Half the City](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones/Half+the+City)** - [St. Paul & The Broken Bones](https://www.last.fm/music/St.+Paul+&+The+Broken+Bones)<br/>
 > `2 ▶️` ∙ **[Capitol Cuts](https://www.last.fm/music/Black+Pumas/Capitol+Cuts)** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `2 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `2 ▶️` ∙ **[Best of Bowie](https://www.last.fm/music/David+Bowie/Best+of+Bowie)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `2 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `2 ▶️` ∙ **[Jennie Bomb](https://www.last.fm/music/Sahara+Hotnights/Jennie+Bomb)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
 > `2 ▶️` ∙ **[Talon of the Hawk](https://www.last.fm/music/The+Front+Bottoms/Talon+of+the+Hawk)** - [The Front Bottoms](https://www.last.fm/music/The+Front+Bottoms)<br/>
 > `2 ▶️` ∙ **[10,000 Days](https://www.last.fm/music/Tool/10,000+Days)** - [Tool](https://www.last.fm/music/Tool)<br/>
-> `1 ▶️` ∙ **[Relationship of Command](https://www.last.fm/music/At+the+Drive-In/Relationship+of+Command)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
-> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Black Pumas (Expanded Deluxe Edition)](https://www.last.fm/music/Black+Pumas/Black+Pumas+(Expanded+Deluxe+Edition))** - [Black Pumas](https://www.last.fm/music/Black+Pumas)<br/>
-> `1 ▶️` ∙ **[Legend](https://www.last.fm/music/Bob+Marley/Legend)** - [Bob Marley](https://www.last.fm/music/Bob+Marley)<br/>
+> `1 ▶️` ∙ **[Sound & Color](https://www.last.fm/music/Alabama+Shakes/Sound+&+Color)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[2 Em 1](https://www.last.fm/music/Alceu+Valen%C3%A7a/2+Em+1)** - [Alceu Valença](https://www.last.fm/music/Alceu+Valen%C3%A7a)<br/>
+> `1 ▶️` ∙ **[Songs in A Minor](https://www.last.fm/music/Alicia+Keys/Songs+in+A+Minor)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
