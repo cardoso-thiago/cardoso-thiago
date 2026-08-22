@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `6 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
+> `5 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
+> `3 ▶️` ∙ **[Are We Not Men? We Are Diva!](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Are+We+Not+Men%3F+We+Are+Diva!)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
+> `3 ▶️` ∙ **[Sunday Afternoon](https://www.last.fm/music/True+Loves/Sunday+Afternoon)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
+> `2 ▶️` ∙ **[Birds With Broken Wings](https://www.last.fm/music/Ben+Caplan/Birds+With+Broken+Wings)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
 > `2 ▶️` ∙ **[Youth & Young Manhood](https://www.last.fm/music/Kings+of+Leon/Youth+&+Young+Manhood)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
-> `2 ▶️` ∙ **[Everything Goes Numb](https://www.last.fm/music/Streetlight+Manifesto/Everything+Goes+Numb)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `2 ▶️` ∙ **[Patrol Acrobatique - Single](https://www.last.fm/music/The+Fearless+Flyers/Patrol+Acrobatique+-+Single)** - [The Fearless Flyers](https://www.last.fm/music/The+Fearless+Flyers)<br/>
-> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
-> `1 ▶️` ∙ **[January Never Dies](https://www.last.fm/music/Balming+Tiger/January+Never+Dies)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `1 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `1 ▶️` ∙ **[섹시느낌](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn+e+Mudd+the+student/%EC%84%B9%EC%8B%9C%EB%8A%90%EB%82%8C)** - [Balming Tiger, Omega Sapien, bj wnjn e Mudd the student](https://www.last.fm/music/Balming+Tiger,+Omega+Sapien,+bj+wnjn+e+Mudd+the+student)<br/>
-> `1 ▶️` ∙ **[Live at Maida Vale - Vol. II](https://www.last.fm/music/Baroness/Live+at+Maida+Vale+-+Vol.+II)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
-> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
+> `2 ▶️` ∙ **[Weezer (Teal Album)](https://www.last.fm/music/Weezer/Weezer+(Teal+Album))** - [Weezer](https://www.last.fm/music/Weezer)<br/>
+> `2 ▶️` ∙ **[Fever To Tell](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell)** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
+> `1 ▶️` ∙ **[Always Alright](https://www.last.fm/music/Alabama+Shakes/Always+Alright)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
