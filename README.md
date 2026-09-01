@@ -5,15 +5,15 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `3 ▶️` ∙ **[Greatest Hits:  Huey Lewis And The News](https://www.last.fm/music/Huey+Lewis+e+Gwyneth+Paltrow/Greatest+Hits:++Huey+Lewis+And+The+News)** - [Huey Lewis e Gwyneth Paltrow](https://www.last.fm/music/Huey+Lewis+e+Gwyneth+Paltrow)<br/>
-> `2 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
 > `2 ▶️` ∙ **[Lithonia](https://www.last.fm/music/Childish+Gambino/Lithonia)** - [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<br/>
 > `2 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `2 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `2 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
 > `2 ▶️` ∙ **[The Legend of Johnny Cash](https://www.last.fm/music/Johnny+Cash/The+Legend+of+Johnny+Cash)** - [Johnny Cash](https://www.last.fm/music/Johnny+Cash)<br/>
-> `2 ▶️` ∙ **[Have A Ball](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Have+A+Ball)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
 > `2 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 > `2 ▶️` ∙ **[Fever To Tell](https://www.last.fm/music/Yeah+Yeah+Yeahs/Fever+To+Tell)** - [Yeah Yeah Yeahs](https://www.last.fm/music/Yeah+Yeah+Yeahs)<br/>
+> `1 ▶️` ∙ **[Boys & Girls](https://www.last.fm/music/Alabama+Shakes/Boys+&+Girls)** - [Alabama Shakes](https://www.last.fm/music/Alabama+Shakes)<br/>
+> `1 ▶️` ∙ **[The Diary of Alicia Keys](https://www.last.fm/music/Alicia+Keys/The+Diary+of+Alicia+Keys)** - [Alicia Keys](https://www.last.fm/music/Alicia+Keys)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
