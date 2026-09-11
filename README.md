@@ -4,16 +4,16 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `3 ▶️` ∙ **[Birds With Broken Wings](https://www.last.fm/music/Ben+Caplan/Birds+With+Broken+Wings)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
-> `2 ▶️` ∙ **[Rogue Taxidermy](https://www.last.fm/music/Days+N%27+Daze/Rogue+Taxidermy)** - [Days N' Daze](https://www.last.fm/music/Days+N%27+Daze)<br/>
+> `3 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `3 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `2 ▶️` ∙ **[Whatever People Say I Am, That's What I'm Not](https://www.last.fm/music/Arctic+Monkeys/Whatever+People+Say+I+Am,+That%27s+What+I%27m+Not)** - [Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys)<br/>
+> `2 ▶️` ∙ **[Birds With Broken Wings](https://www.last.fm/music/Ben+Caplan/Birds+With+Broken+Wings)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
+> `2 ▶️` ∙ **[Dinosaur Sounds](https://www.last.fm/music/Catch+22/Dinosaur+Sounds)** - [Catch 22](https://www.last.fm/music/Catch+22)<br/>
 > `2 ▶️` ∙ **[You're a Woman, I'm a Machine](https://www.last.fm/music/Death+from+Above+1979/You%27re+a+Woman,+I%27m+a+Machine)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
-> `2 ▶️` ∙ **[Tidal](https://www.last.fm/music/Fiona+Apple/Tidal)** - [Fiona Apple](https://www.last.fm/music/Fiona+Apple)<br/>
 > `2 ▶️` ∙ **[Accumulator](https://www.last.fm/music/Greyhounds/Accumulator)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[Loving In Stereo](https://www.last.fm/music/Jungle/Loving+In+Stereo)** - [Jungle](https://www.last.fm/music/Jungle)<br/>
 > `2 ▶️` ∙ **[Because of the Times](https://www.last.fm/music/Kings+of+Leon/Because+of+the+Times)** - [Kings of Leon](https://www.last.fm/music/Kings+of+Leon)<br/>
-> `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
-> `2 ▶️` ∙ **[Gemini, Her Majesty](https://www.last.fm/music/Rx+Bandits/Gemini,+Her+Majesty)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
-> `2 ▶️` ∙ **[Steal This Album!](https://www.last.fm/music/System+of+a+Down/Steal+This+Album!)** - [System of a Down](https://www.last.fm/music/System+of+a+Down)<br/>
+> `2 ▶️` ∙ **[Coming Home](https://www.last.fm/music/Leon+Bridges/Coming+Home)** - [Leon Bridges](https://www.last.fm/music/Leon+Bridges)<br/>
+> `2 ▶️` ∙ **[Are We Not Men? We Are Diva!](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes/Are+We+Not+Men%3F+We+Are+Diva!)** - [Me First and the Gimme Gimmes](https://www.last.fm/music/Me+First+and+the+Gimme+Gimmes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
