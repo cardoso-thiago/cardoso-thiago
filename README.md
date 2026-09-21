@@ -5,12 +5,12 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `2 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
+> `2 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `2 ▶️` ∙ **[Jennie Bomb](https://www.last.fm/music/Sahara+Hotnights/Jennie+Bomb)** - [Sahara Hotnights](https://www.last.fm/music/Sahara+Hotnights)<br/>
 > `2 ▶️` ∙ **[Sunday Afternoon](https://www.last.fm/music/True+Loves/Sunday+Afternoon)** - [True Loves](https://www.last.fm/music/True+Loves)<br/>
 > `1 ▶️` ∙ **[History: America's Greatest Hits](https://www.last.fm/music/America/History:+America%27s+Greatest+Hits)** - [America](https://www.last.fm/music/America)<br/>
 > `1 ▶️` ∙ **[In / Casino / Out](https://www.last.fm/music/At+the+Drive-In/In+%2F+Casino+%2F+Out)** - [At the Drive-In](https://www.last.fm/music/At+the+Drive-In)<br/>
 > `1 ▶️` ∙ **[Crossing Common Borders](https://www.last.fm/music/Bambix/Crossing+Common+Borders)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
-> `1 ▶️` ∙ **[Purple](https://www.last.fm/music/Baroness/Purple)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Yellow & Green](https://www.last.fm/music/Baroness/Yellow+&+Green)** - [Baroness](https://www.last.fm/music/Baroness)<br/>
 > `1 ▶️` ∙ **[Mellow Gold](https://www.last.fm/music/Beck/Mellow+Gold)** - [Beck](https://www.last.fm/music/Beck)<br/>
 > `1 ▶️` ∙ **[In The Time Of The Great Remembering](https://www.last.fm/music/Ben+Caplan/In+The+Time+Of+The+Great+Remembering)** - [Ben Caplan](https://www.last.fm/music/Ben+Caplan)<br/>
