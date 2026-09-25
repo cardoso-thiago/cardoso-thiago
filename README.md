@@ -8,12 +8,12 @@
 > `4 ▶️` ∙ **[I Told You So](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/I+Told+You+So)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `4 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `3 ▶️` ∙ **[History: America's Greatest Hits](https://www.last.fm/music/America/History:+America%27s+Greatest+Hits)** - [America](https://www.last.fm/music/America)<br/>
-> `2 ▶️` ∙ **[Best of Bowie](https://www.last.fm/music/David+Bowie/Best+of+Bowie)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
+> `3 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
+> `2 ▶️` ∙ **[Leitmotiv](https://www.last.fm/music/Bambix/Leitmotiv)** - [Bambix](https://www.last.fm/music/Bambix)<br/>
 > `2 ▶️` ∙ **[Live at KEXP!](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Live+at+KEXP!)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
-> `2 ▶️` ∙ **[Change of Pace](https://www.last.fm/music/Greyhounds/Change+of+Pace)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `2 ▶️` ∙ **[In Through the Out Door](https://www.last.fm/music/Led+Zeppelin/In+Through+the+Out+Door)** - [Led Zeppelin](https://www.last.fm/music/Led+Zeppelin)<br/>
-> `2 ▶️` ∙ **[Nerdicity](https://www.last.fm/music/Nerd+Academy/Nerdicity)** - [Nerd Academy](https://www.last.fm/music/Nerd+Academy)<br/>
 > `2 ▶️` ∙ **[The New Romance](https://www.last.fm/music/Pretty+Girls+Make+Graves/The+New+Romance)** - [Pretty Girls Make Graves](https://www.last.fm/music/Pretty+Girls+Make+Graves)<br/>
+> `2 ▶️` ∙ **[Mandala](https://www.last.fm/music/Rx+Bandits/Mandala)** - [Rx Bandits](https://www.last.fm/music/Rx+Bandits)<br/>
+> `2 ▶️` ∙ **[The Hot Rock](https://www.last.fm/music/Sleater-Kinney/The+Hot+Rock)** - [Sleater-Kinney](https://www.last.fm/music/Sleater-Kinney)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
