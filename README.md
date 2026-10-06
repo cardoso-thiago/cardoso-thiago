@@ -8,7 +8,7 @@
 > `5 ▶️` ∙ **[Close But No Cigar](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio/Close+But+No+Cigar)** - [Delvon Lamarr Organ Trio](https://www.last.fm/music/Delvon+Lamarr+Organ+Trio)<br/>
 > `4 ▶️` ∙ **[Live at Madison Square Garden](https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden)** - [Vulfpeck](https://www.last.fm/music/Vulfpeck)<br/>
 > `3 ▶️` ∙ **[Heads Up](https://www.last.fm/music/Death+from+Above+1979/Heads+Up)** - [Death from Above 1979](https://www.last.fm/music/Death+from+Above+1979)<br/>
-> `3 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `2 ▶️` ∙ **[Rumours](https://www.last.fm/music/Fleetwood+Mac/Rumours)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `2 ▶️` ∙ **[Red Fang](https://www.last.fm/music/Red+Fang/Red+Fang)** - [Red Fang](https://www.last.fm/music/Red+Fang)<br/>
 > `2 ▶️` ∙ **[Somewhere in the Between](https://www.last.fm/music/Streetlight+Manifesto/Somewhere+in+the+Between)** - [Streetlight Manifesto](https://www.last.fm/music/Streetlight+Manifesto)<br/>
 > `2 ▶️` ∙ **[El Camino](https://www.last.fm/music/The+Black+Keys/El+Camino)** - [The Black Keys](https://www.last.fm/music/The+Black+Keys)<br/>
