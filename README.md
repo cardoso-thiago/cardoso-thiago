@@ -26,7 +26,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/accelerator_energies.png" />
+ <img src="https://imgs.xkcd.com/comics/spectrum_allocation.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
