@@ -6,8 +6,6 @@
 
 > `1 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `1 ▶️` ∙ **[Wash Away](https://www.last.fm/music/Balming+Tiger/Wash+Away)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `1 ▶️` ∙ **[Heaven on Earth](https://www.last.fm/music/Greyhounds/Heaven+on+Earth)** - [Greyhounds](https://www.last.fm/music/Greyhounds)<br/>
-> `1 ▶️` ∙ **[The Madrid Sessions](https://www.last.fm/music/Shawn+James/The+Madrid+Sessions)** - [Shawn James](https://www.last.fm/music/Shawn+James)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <p align="center"><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api?username=cardoso-thiago&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="cardoso-thiago" /><img align="center" src="https://github-readme-stats-nine-kohl.vercel.app/api/top-langs?username=cardoso-thiago&show_icons=true&locale=en&layout=compact&theme=gotham" alt="cardoso-thiago" /></p>
