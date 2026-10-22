@@ -4,8 +4,6 @@
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 10}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Narani Narani](https://www.last.fm/music/Balming+Tiger/Narani+Narani)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
-> `1 ▶️` ∙ **[Wash Away](https://www.last.fm/music/Balming+Tiger/Wash+Away)** - [Balming Tiger](https://www.last.fm/music/Balming+Tiger)<br/>
 > `1 ▶️` ∙ **[Aperitif for Destruction](https://www.last.fm/music/Richard+Cheese/Aperitif+for+Destruction)** - [Richard Cheese](https://www.last.fm/music/Richard+Cheese)<br/>
 <!--END_LASTFM_ALBUMS-->
 
