@@ -17,7 +17,7 @@ No listening data found for the selected time period.
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/vulnerability.png" />
+ <img src="https://imgs.xkcd.com/comics/forms_of_water.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
